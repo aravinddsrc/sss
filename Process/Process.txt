@@ -1,0 +1,974 @@
+KSERASERA		Sparkline Graph	0.25	0.05	25.00	0.20	200	0.00	-	-	-
+BHUSANSTL		Sparkline Graph	47.00	6.45	15.91	40.55	3,27,778	154.06	-	-	-
+AURIONPRO		Sparkline Graph	235.90	28.70	13.85	207.20	12,358	29.15	-	-	-
+DEEPAKFERT		Sparkline Graph	336.85	31.45	10.30	305.40	15,145	51.02	-	-	-
+MCDHOLDING		Sparkline Graph	44.70	3.80	9.29	40.90	10,129	4.53	-	-	-
+MONNETISPA		Sparkline Graph	24.70	1.45	6.24	23.25	7,755	1.92	-	-	-
+RAJVIR		Sparkline Graph	46.90	2.60	5.87	44.30	100	0.05	-	-	-
+SANCO		Sparkline Graph	35.50	1.75	5.19	33.75	25	0.01	-	-	-
+AEGISCHEM	Corporate Action	Sparkline Graph	240.00	11.60	5.08	228.40	2,495	5.99	-	-	-
+LPDC		Sparkline Graph	5.25	0.25	5.00	5.00	1,070	0.06	-	-	-
+FACT		Sparkline Graph	54.60	2.60	5.00	52.00	2,373	1.30	-	-	-
+SHAHALLOYS		Sparkline Graph	38.05	1.80	4.97	36.25	3,125	1.19	-	-	-
+METALFORGE		Sparkline Graph	28.65	1.35	4.95	27.30	3,502	1.00	-	-	-
+WIPL		Sparkline Graph	50.15	2.35	4.92	47.80	10	0.01	-	-	-
+AMTEKAUTO		Sparkline Graph	23.70	1.10	4.87	22.60	15,080	3.57	-	-	-
+FLEXITUFF		Sparkline Graph	67.80	3.10	4.79	64.70	1	0.00	-	-	-
+SRSLTD		Sparkline Graph	1.10	0.05	4.76	1.05	500	0.01	-	-	-
+KREBSBIO		Sparkline Graph	204.00	9.25	4.75	194.75	306	0.62	-	-	-
+UNITY	Corporate Action	Sparkline Graph	5.80	0.25	4.50	5.55	100	0.01	-	-	-
+JMTAUTOLTD		Sparkline Graph	4.65	0.20	4.49	4.45	8,937	0.42	-	-	-
+RHFL		Sparkline Graph	67.60	2.90	4.48	64.70	10,856	7.34	-	-	-
+BURNPUR		Sparkline Graph	10.70	0.45	4.39	10.25	50	0.01	-	-	-
+AMDIND		Sparkline Graph	44.20	1.85	4.37	42.35	552	0.24	-	-	-
+PRAXIS		Sparkline Graph	164.90	6.85	4.33	158.05	1	0.00	-	-	-
+OISL		Sparkline Graph	3.65	0.15	4.29	3.50	5,700	0.21	-	-	-
+SUTLEJTEX		Sparkline Graph	78.45	3.20	4.25	75.25	250	0.20	-	-	-
+SORILHOLD		Sparkline Graph	215.00	8.70	4.22	206.30	1,215	2.61	-	-	-
+MARALOVER		Sparkline Graph	34.70	1.40	4.20	33.30	900	0.31	-	-	-
+SRIPIPES		Sparkline Graph	330.00	12.95	4.08	317.05	319	1.05	-	-	-
+MIRCELECTR		Sparkline Graph	49.90	1.95	4.07	47.95	4,510	2.25	-	-	-
+ALANKIT	Corporate Action	Sparkline Graph	51.40	2.00	4.05	49.40	300	0.15	-	-	-
+CINELINE		Sparkline Graph	79.80	3.10	4.04	76.70	500	0.40	-	-	-
+BHAGERIA		Sparkline Graph	298.15	11.25	3.92	286.90	3	0.01	-	-	-
+INDBANK		Sparkline Graph	21.80	0.80	3.81	21.00	500	0.11	-	-	-
+MAXVIL		Sparkline Graph	71.65	2.60	3.77	69.05	2,400	1.72	-	-	-
+3IINFOTECH		Sparkline Graph	5.85	0.20	3.54	5.65	83,520	4.89	-	-	-
+KAMATHOTEL		Sparkline Graph	99.90	3.40	3.52	96.50	737	0.74	-	-	-
+PRESSMN		Sparkline Graph	52.90	1.80	3.52	51.10	1	0.00	-	-	-
+PRABHAT		Sparkline Graph	171.90	5.80	3.49	166.10	753	1.29	-	-	-
+PREMIER		Sparkline Graph	26.75	0.85	3.28	25.90	300	0.08	-	-	-
+VAKRANGEE	Corporate Action	Sparkline Graph	184.00	5.75	3.23	178.25	1,23,174	226.64	-	-	-
+DIGJAMLTD		Sparkline Graph	11.30	0.35	3.20	10.95	25	0.00	-	-	-
+RTNINFRA		Sparkline Graph	4.85	0.15	3.19	4.70	100	0.00	-	-	-
+PRICOLLTD		Sparkline Graph	87.90	2.70	3.17	85.20	700	0.62	-	-	-
+RCOM		Sparkline Graph	26.00	0.80	3.17	25.20	2,11,098	54.89	-	-	-
+SMSPHARMA		Sparkline Graph	83.30	2.55	3.16	80.75	75	0.06	-	-	-
+PROVOGE		Sparkline Graph	4.90	0.15	3.16	4.75	50	0.00	-	-	-
+DBREALTY		Sparkline Graph	53.00	1.60	3.11	51.40	1,600	0.85	-	-	-
+UNITECH		Sparkline Graph	6.70	0.20	3.08	6.50	49,860	3.34	-	-	-
+ZEELEARN		Sparkline Graph	39.00	1.15	3.04	37.85	4,155	1.62	-	-	-
+GINNIFILA		Sparkline Graph	32.55	0.95	3.01	31.60	150	0.05	-	-	-
+JPPOWER		Sparkline Graph	5.20	0.15	2.97	5.05	13,036	0.68	-	-	-
+DAMODARIND		Sparkline Graph	142.00	4.10	2.97	137.90	10	0.01	-	-	-
+GEOJITFSL		Sparkline Graph	93.95	2.70	2.96	91.25	20	0.02	-	-	-
+AGLSL		Sparkline Graph	102.90	2.95	2.95	99.95	1	0.00	-	-	-
+KEI		Sparkline Graph	371.65	10.55	2.92	361.10	1,000	3.72	-	-	-
+INDOSOLAR		Sparkline Graph	7.10	0.20	2.90	6.90	12,701	0.90	-	-	-
+IDEA		Sparkline Graph	82.00	2.30	2.89	79.70	1,41,068	115.68	-	-	-
+SABTN		Sparkline Graph	17.85	0.50	2.88	17.35	2,660	0.47	-	-	-
+MTNL		Sparkline Graph	21.60	0.60	2.86	21.00	13,251	2.86	-	-	-
+ALPA		Sparkline Graph	40.95	1.10	2.76	39.85	2	0.00	-	-	-
+NDL		Sparkline Graph	140.00	3.75	2.75	136.25	300	0.42	-	-	-
+OMKARCHEM		Sparkline Graph	34.00	0.90	2.72	33.10	400	0.14	-	-	-
+NAGAROIL	Corporate Action	Sparkline Graph	4.00	0.10	2.56	3.90	100	0.00	-	-	-
+PVP		Sparkline Graph	6.10	0.15	2.52	5.95	500	0.03	-	-	-
+GOLDINFRA		Sparkline Graph	202.00	4.95	2.51	197.05	50	0.10	-	-	-
+DIAMONDYD		Sparkline Graph	1,245.00	30.25	2.49	1,214.75	2	0.02	-	-	-
+ORIENTPPR	Corporate Action	Sparkline Graph	39.95	0.95	2.44	39.00	1	0.00	-	-	-
+IVC		Sparkline Graph	19.25	0.45	2.39	18.80	1,200	0.23	-	-	-
+HINDCOMPOS		Sparkline Graph	405.50	9.45	2.39	396.05	40	0.16	-	-	-
+KRBL		Sparkline Graph	501.80	11.65	2.38	490.15	750	3.76	-	-	-
+BPL		Sparkline Graph	84.25	1.95	2.37	82.30	1,292	1.09	-	-	-
+VARDMNPOLY		Sparkline Graph	21.65	0.50	2.36	21.15	300	0.06	-	-	-
+TIIL	Corporate Action	Sparkline Graph	533.00	12.25	2.35	520.75	3	0.02	-	-	-
+KEC		Sparkline Graph	414.75	9.35	2.31	405.40	4,004	16.61	-	-	-
+SHILPAMED	Corporate Action	Sparkline Graph	415.00	9.30	2.29	405.70	5	0.02	-	-	-
+IDBI		Sparkline Graph	80.95	1.80	2.27	79.15	68,541	55.48	-	-	-
+KAKATCEM		Sparkline Graph	277.00	6.10	2.25	270.90	50	0.14	-	-	-
+TEAMLEASE		Sparkline Graph	2,198.40	48.05	2.23	2,150.35	501	11.01	-	-	-
+AROGRANITE		Sparkline Graph	60.40	1.30	2.20	59.10	15	0.01	-	-	-
+RADICO		Sparkline Graph	311.80	6.65	2.18	305.15	2,178	6.79	-	-	-
+L&TFH		Sparkline Graph	161.20	3.40	2.15	157.80	27,301	44.01	-	-	-
+GRAPHITE	Corporate Action	Sparkline Graph	668.00	13.80	2.11	654.20	2,212	14.78	-	-	-
+JAICORPLTD		Sparkline Graph	137.80	2.85	2.11	134.95	4,173	5.75	-	-	-
+FORTIS		Sparkline Graph	150.65	3.10	2.10	147.55	17,159	25.85	-	-	-
+BIGBLOC		Sparkline Graph	170.00	3.50	2.10	166.50	205	0.35	-	-	-
+NCLIND	Corporate Action	Sparkline Graph	210.00	4.30	2.09	205.70	5	0.01	-	-	-
+GREENPLY		Sparkline Graph	333.90	6.80	2.08	327.10	37	0.12	-	-	-
+SYNDIBANK		Sparkline Graph	56.50	1.15	2.08	55.35	19,606	11.08	-	-	-
+MARKSANS		Sparkline Graph	37.00	0.75	2.07	36.25	2,303	0.85	-	-	-
+VENKEYS		Sparkline Graph	3,952.00	80.05	2.07	3,871.95	1,116	44.10	-	-	-
+BHARTIARTL	Corporate Action	Sparkline Graph	411.50	8.30	2.06	403.20	26,312	108.27	-	-	-
+SHREEPUSHK		Sparkline Graph	236.00	4.75	2.05	231.25	370	0.87	-	-	-
+VASCONEQ		Sparkline Graph	34.90	0.70	2.05	34.20	2,260	0.79	-	-	-
+GTNTEX		Sparkline Graph	17.55	0.35	2.03	17.20	88	0.02	-	-	-
+ASTEC		Sparkline Graph	579.95	11.45	2.01	568.50	10	0.06	-	-	-
+TVSELECT		Sparkline Graph	364.00	7.15	2.00	356.85	10	0.04	-	-	-
+EKC		Sparkline Graph	51.20	1.00	1.99	50.20	525	0.27	-	-	-
+SUPPETRO		Sparkline Graph	358.25	7.00	1.99	351.25	8	0.03	-	-	-
+AIAENG		Sparkline Graph	1,397.80	27.30	1.99	1,370.50	1	0.01	-	-	-
+AGRITECH		Sparkline Graph	138.95	2.70	1.98	136.25	305	0.42	-	-	-
+BANCOINDIA		Sparkline Graph	219.05	4.25	1.98	214.80	200	0.44	-	-	-
+BRIGADE		Sparkline Graph	276.85	5.35	1.97	271.50	7	0.02	-	-	-
+WEIZMANIND		Sparkline Graph	44.00	0.85	1.97	43.15	50	0.02	-	-	-
+DENORA		Sparkline Graph	469.90	9.05	1.96	460.85	30	0.14	-	-	-
+BEPL		Sparkline Graph	167.90	3.20	1.94	164.70	955	1.60	-	-	-
+IOB		Sparkline Graph	18.55	0.35	1.92	18.20	532	0.10	-	-	-
+VSTTILLERS		Sparkline Graph	2,758.00	51.95	1.92	2,706.05	100	2.76	-	-	-
+GREENPOWER		Sparkline Graph	10.70	0.20	1.90	10.50	4,900	0.52	-	-	-
+SUNFLAG		Sparkline Graph	83.00	1.55	1.90	81.45	4,280	3.55	-	-	-
+UBL		Sparkline Graph	1,040.85	19.20	1.88	1,021.65	461	4.80	-	-	-
+RBL	Corporate Action	Sparkline Graph	1,015.00	18.60	1.87	996.40	2	0.02	-	-	-
+AMBER		Sparkline Graph	1,134.95	20.80	1.87	1,114.15	422	4.79	-	-	-
+ITDC		Sparkline Graph	399.90	7.30	1.86	392.60	15	0.06	-	-	-
+SORILINFRA		Sparkline Graph	212.00	3.85	1.85	208.15	30	0.06	-	-	-
+RTNPOWER		Sparkline Graph	5.55	0.10	1.83	5.45	11,200	0.62	-	-	-
+AKSHOPTFBR	Corporate Action	Sparkline Graph	33.40	0.60	1.83	32.80	3,010	1.01	-	-	-
+RAIN		Sparkline Graph	374.60	6.70	1.82	367.90	10,938	40.97	-	-	-
+SUBEX		Sparkline Graph	8.45	0.15	1.81	8.30	5,950	0.50	-	-	-
+NILAINFRA		Sparkline Graph	19.65	0.35	1.81	19.30	2,300	0.45	-	-	-
+ELECTCAST		Sparkline Graph	28.35	0.50	1.80	27.85	1	0.00	-	-	-
+TTML		Sparkline Graph	5.70	0.10	1.79	5.60	2,283	0.13	-	-	-
+ADFFOODS		Sparkline Graph	229.80	4.05	1.79	225.75	896	2.06	-	-	-
+VISAKAIND		Sparkline Graph	673.00	11.85	1.79	661.15	6	0.04	-	-	-
+ZUARIGLOB		Sparkline Graph	186.00	3.25	1.78	182.75	451	0.84	-	-	-
+TFCILTD		Sparkline Graph	157.00	2.75	1.78	154.25	1,000	1.57	-	-	-
+KNRCON		Sparkline Graph	296.95	5.15	1.76	291.80	1,150	3.41	-	-	-
+EVEREADY		Sparkline Graph	384.90	6.65	1.76	378.25	206	0.79	-	-	-
+ARIHANTSUP		Sparkline Graph	133.90	2.30	1.75	131.60	573	0.77	-	-	-
+KSL		Sparkline Graph	291.20	5.00	1.75	286.20	100	0.29	-	-	-
+INDIAGLYCO		Sparkline Graph	472.00	8.10	1.75	463.90	308	1.45	-	-	-
+LYPSAGEMS		Sparkline Graph	23.20	0.40	1.75	22.80	540	0.13	-	-	-
+GRINDWELL		Sparkline Graph	505.00	8.65	1.74	496.35	40	0.20	-	-	-
+PENINLAND		Sparkline Graph	23.55	0.40	1.73	23.15	2,050	0.48	-	-	-
+JINDALSAW		Sparkline Graph	126.50	2.15	1.73	124.35	1,673	2.12	-	-	-
+RELCAPITAL		Sparkline Graph	424.80	7.20	1.72	417.60	4,975	21.13	-	-	-
+DWARKESH		Sparkline Graph	29.75	0.50	1.71	29.25	3,550	1.06	-	-	-
+AJANTPHARM		Sparkline Graph	1,350.00	22.60	1.70	1,327.40	103	1.39	-	-	-
+SILINV		Sparkline Graph	418.00	6.95	1.69	411.05	5	0.02	-	-	-
+BHANDARI		Sparkline Graph	3.00	0.05	1.69	2.95	6,100	0.18	-	-	-
+HFCL		Sparkline Graph	27.00	0.45	1.69	26.55	15,482	4.18	-	-	-
+SAGCEM		Sparkline Graph	960.00	15.95	1.69	944.05	13	0.12	-	-	-
+JPASSOCIAT		Sparkline Graph	15.00	0.25	1.69	14.75	1,19,819	17.97	-	-	-
+SUBROS		Sparkline Graph	324.00	5.35	1.68	318.65	10	0.03	-	-	-
+SCI		Sparkline Graph	66.70	1.10	1.68	65.60	1,134	0.76	-	-	-
+HINDCOPPER		Sparkline Graph	66.40	1.10	1.68	65.30	4,650	3.09	-	-	-
+TINPLATE		Sparkline Graph	210.10	3.45	1.67	206.65	1,118	2.35	-	-	-
+ACE		Sparkline Graph	170.95	2.80	1.67	168.15	1,630	2.79	-	-	-
+ARVSMART		Sparkline Graph	162.00	2.65	1.66	159.35	120	0.19	-	-	-
+NELCO		Sparkline Graph	159.05	2.60	1.66	156.45	306	0.49	-	-	-
+TALBROAUTO		Sparkline Graph	274.00	4.45	1.65	269.55	200	0.55	-	-	-
+ANDHRABANK		Sparkline Graph	39.95	0.65	1.65	39.30	5,495	2.20	-	-	-
+BEL	Corporate Action	Sparkline Graph	150.80	2.45	1.65	148.35	3,829	5.77	-	-	-
+LYKALABS		Sparkline Graph	53.00	0.85	1.63	52.15	114	0.06	-	-	-
+POKARNA		Sparkline Graph	199.40	3.20	1.63	196.20	100	0.20	-	-	-
+GOACARBON	Corporate Action	Sparkline Graph	898.00	14.25	1.61	883.75	284	2.55	-	-	-
+TRIGYN		Sparkline Graph	135.30	2.15	1.61	133.15	150	0.20	-	-	-
+FEL		Sparkline Graph	38.10	0.60	1.60	37.50	542	0.21	-	-	-
+DHARSUGAR		Sparkline Graph	19.15	0.30	1.59	18.85	250	0.05	-	-	-
+GOODLUCK		Sparkline Graph	93.00	1.45	1.58	91.55	190	0.18	-	-	-
+ICIL	Corporate Action	Sparkline Graph	93.40	1.45	1.58	91.95	826	0.77	-	-	-
+UNIONBANK		Sparkline Graph	97.20	1.50	1.57	95.70	9,217	8.96	-	-	-
+SCHNEIDER		Sparkline Graph	112.90	1.75	1.57	111.15	100	0.11	-	-	-
+ALEMBICLTD		Sparkline Graph	61.95	0.95	1.56	61.00	5,735	3.55	-	-	-
+SHREYANIND		Sparkline Graph	149.90	2.30	1.56	147.60	10	0.01	-	-	-
+KITEX		Sparkline Graph	246.25	3.75	1.55	242.50	498	1.23	-	-	-
+BFINVEST		Sparkline Graph	308.00	4.70	1.55	303.30	120	0.37	-	-	-
+JSWSTEEL		Sparkline Graph	294.00	4.50	1.55	289.50	5,169	15.20	-	-	-
+OMMETALS	Corporate Action	Sparkline Graph	52.70	0.80	1.54	51.90	500	0.26	-	-	-
+JINDALSTEL		Sparkline Graph	235.40	3.55	1.53	231.85	7,305	17.20	-	-	-
+BIRLAMONEY		Sparkline Graph	66.20	1.00	1.53	65.20	767	0.51	-	-	-
+GOKULAGRO		Sparkline Graph	23.20	0.35	1.53	22.85	66	0.02	-	-	-
+BOMDYEING		Sparkline Graph	250.90	3.75	1.52	247.15	10,199	25.59	-	-	-
+KOPRAN		Sparkline Graph	63.80	0.95	1.51	62.85	150	0.10	-	-	-
+SPECIALITY		Sparkline Graph	135.55	2.00	1.50	133.55	51	0.07	-	-	-
+DHANUKA	Corporate Action	Sparkline Graph	593.15	8.75	1.50	584.40	2	0.01	-	-	-
+LUXIND		Sparkline Graph	1,716.55	25.30	1.50	1,691.25	2	0.03	-	-	-
+WANBURY		Sparkline Graph	37.50	0.55	1.49	36.95	250	0.09	-	-	-
+LTI		Sparkline Graph	1,397.00	20.50	1.49	1,376.50	555	7.75	-	-	-
+UCALFUEL		Sparkline Graph	252.80	3.70	1.49	249.10	150	0.38	-	-	-
+CUPID		Sparkline Graph	272.85	4.00	1.49	268.85	85	0.23	-	-	-
+ANDHRACEMT		Sparkline Graph	10.20	0.15	1.49	10.05	1,050	0.11	-	-	-
+SUNTECK		Sparkline Graph	407.15	5.95	1.48	401.20	21	0.09	-	-	-
+INDOCO		Sparkline Graph	247.05	3.60	1.48	243.45	5	0.01	-	-	-
+KIRLOSENG	Corporate Action	Sparkline Graph	366.35	5.35	1.48	361.00	10	0.04	-	-	-
+KRIDHANINF		Sparkline Graph	109.60	1.60	1.48	108.00	1,645	1.80	-	-	-
+IFBIND		Sparkline Graph	1,322.00	19.30	1.48	1,302.70	10	0.13	-	-	-
+SHARDACROP		Sparkline Graph	383.25	5.60	1.48	377.65	1	0.00	-	-	-
+CELEBRITY		Sparkline Graph	17.10	0.25	1.48	16.85	70	0.01	-	-	-
+ZENTEC		Sparkline Graph	124.30	1.80	1.47	122.50	600	0.75	-	-	-
+ASHIANA		Sparkline Graph	165.55	2.40	1.47	163.15	136	0.23	-	-	-
+VEDL		Sparkline Graph	313.90	4.55	1.47	309.35	16,219	50.91	-	-	-
+HEG	Corporate Action	Sparkline Graph	2,640.00	38.15	1.47	2,601.85	823	21.73	-	-	-
+INDNIPPON	Corporate Action	Sparkline Graph	976.80	14.05	1.46	962.75	50	0.49	-	-	-
+SHIVAMAUTO		Sparkline Graph	76.20	1.10	1.46	75.10	100	0.08	-	-	-
+VIPCLOTHNG		Sparkline Graph	58.95	0.85	1.46	58.10	100	0.06	-	-	-
+GIPCL		Sparkline Graph	104.05	1.50	1.46	102.55	350	0.36	-	-	-
+SDBL		Sparkline Graph	229.10	3.30	1.46	225.80	2	0.00	-	-	-
+WELCORP		Sparkline Graph	168.10	2.40	1.45	165.70	174	0.29	-	-	-
+ALPHAGEO		Sparkline Graph	792.00	11.35	1.45	780.65	10	0.08	-	-	-
+APTECHT		Sparkline Graph	300.00	4.30	1.45	295.70	1,778	5.33	-	-	-
+RNAVAL		Sparkline Graph	34.95	0.50	1.45	34.45	6,395	2.24	-	-	-
+AARTIIND	Corporate Action	Sparkline Graph	1,167.00	16.55	1.44	1,150.45	5	0.06	-	-	-
+MHRIL		Sparkline Graph	295.00	4.20	1.44	290.80	10	0.03	-	-	-
+DEN		Sparkline Graph	98.35	1.40	1.44	96.95	230	0.23	-	-	-
+NRBBEARING		Sparkline Graph	155.05	2.20	1.44	152.85	41	0.06	-	-	-
+APLAPOLLO		Sparkline Graph	1,985.00	28.25	1.44	1,956.75	20	0.40	-	-	-
+APEX		Sparkline Graph	658.00	9.35	1.44	648.65	1,452	9.55	-	-	-
+ASTRAMICRO		Sparkline Graph	88.40	1.25	1.43	87.15	1,224	1.08	-	-	-
+BANKBARODA		Sparkline Graph	134.50	1.90	1.43	132.60	7,158	9.63	-	-	-
+ELECON		Sparkline Graph	81.65	1.15	1.43	80.50	550	0.45	-	-	-
+NAVKARCORP		Sparkline Graph	162.70	2.30	1.43	160.40	166	0.27	-	-	-
+TORNTPOWER		Sparkline Graph	257.10	3.60	1.42	253.50	2,487	6.39	-	-	-
+TATASTEEL	Corporate Action	Sparkline Graph	656.90	9.20	1.42	647.70	17,902	117.60	-	-	-
+ASHOKLEY		Sparkline Graph	143.25	2.00	1.42	141.25	63,445	90.88	-	-	-
+SKIPPER		Sparkline Graph	232.00	3.20	1.40	228.80	4	0.01	-	-	-
+GABRIEL		Sparkline Graph	145.00	2.00	1.40	143.00	135	0.20	-	-	-
+HUBTOWN		Sparkline Graph	79.70	1.10	1.40	78.60	50	0.04	-	-	-
+MUNJALAU		Sparkline Graph	73.00	1.00	1.39	72.00	301	0.22	-	-	-
+RALLIS		Sparkline Graph	228.00	3.10	1.38	224.90	59	0.13	-	-	-
+DHANBANK		Sparkline Graph	22.00	0.30	1.38	21.70	1,123	0.25	-	-	-
+NBCC		Sparkline Graph	190.05	2.55	1.36	187.50	740	1.41	-	-	-
+EMAMIINFRA		Sparkline Graph	271.60	3.65	1.36	267.95	10	0.03	-	-	-
+WHIRLPOOL		Sparkline Graph	1,520.00	20.45	1.36	1,499.55	172	2.61	-	-	-
+SURYAROSNI		Sparkline Graph	404.20	5.40	1.35	398.80	113	0.46	-	-	-
+RELINFRA		Sparkline Graph	415.30	5.55	1.35	409.75	5,130	21.30	-	-	-
+HINDOILEXP		Sparkline Graph	105.10	1.40	1.35	103.70	1,406	1.48	-	-	-
+VOLTAS		Sparkline Graph	635.00	8.40	1.34	626.60	5,689	36.13	-	-	-
+GODREJIND		Sparkline Graph	550.00	7.25	1.34	542.75	210	1.16	-	-	-
+VGUARD		Sparkline Graph	231.40	3.05	1.34	228.35	745	1.72	-	-	-
+BAJAJHIND		Sparkline Graph	11.35	0.15	1.34	11.20	1,845	0.21	-	-	-
+LOVABLE		Sparkline Graph	200.90	2.65	1.34	198.25	48	0.10	-	-	-
+SONATSOFTW		Sparkline Graph	312.90	4.10	1.33	308.80	62	0.19	-	-	-
+HESTERBIO		Sparkline Graph	1,724.00	22.60	1.33	1,701.40	20	0.34	-	-	-
+SATIN		Sparkline Graph	426.80	5.60	1.33	421.20	1	0.00	-	-	-
+KOTHARIPRO		Sparkline Graph	153.30	2.00	1.32	151.30	20	0.03	-	-	-
+TATACOMM		Sparkline Graph	621.25	8.00	1.30	613.25	1,000	6.21	-	-	-
+EMKAY		Sparkline Graph	168.00	2.15	1.30	165.85	100	0.17	-	-	-
+3MINDIA		Sparkline Graph	20,695.00	266.15	1.30	20,428.85	3	0.62	-	-	-
+ENGINERSIN		Sparkline Graph	164.50	2.10	1.29	162.40	1,727	2.84	-	-	-
+BASF		Sparkline Graph	2,020.00	25.75	1.29	1,994.25	5	0.10	-	-	-
+EMAMILTD		Sparkline Graph	1,118.00	14.20	1.29	1,103.80	2	0.02	-	-	-
+ARVIND		Sparkline Graph	393.70	5.00	1.29	388.70	1,209	4.76	-	-	-
+PRAKASH		Sparkline Graph	174.00	2.20	1.28	171.80	11,947	20.79	-	-	-
+FEDDERELEC		Sparkline Graph	71.05	0.90	1.28	70.15	300	0.21	-	-	-
+SETCO		Sparkline Graph	56.00	0.70	1.27	55.30	752	0.42	-	-	-
+ZODIACLOTH		Sparkline Graph	175.55	2.20	1.27	173.35	7	0.01	-	-	-
+IBREALEST		Sparkline Graph	199.75	2.50	1.27	197.25	9,021	18.02	-	-	-
+KOTHARIPET		Sparkline Graph	24.00	0.30	1.27	23.70	1	0.00	-	-	-
+RIIL		Sparkline Graph	436.00	5.45	1.27	430.55	2,776	12.10	-	-	-
+CANFINHOME		Sparkline Graph	506.00	6.35	1.27	499.65	1,102	5.58	-	-	-
+GAEL		Sparkline Graph	253.00	3.15	1.26	249.85	1,700	4.30	-	-	-
+JAGSNPHARM		Sparkline Graph	28.15	0.35	1.26	27.80	1,000	0.28	-	-	-
+STRTECH		Sparkline Graph	346.30	4.30	1.26	342.00	1,169	4.05	-	-	-
+TATAMETALI		Sparkline Graph	761.00	9.45	1.26	751.55	200	1.52	-	-	-
+TWL		Sparkline Graph	120.10	1.50	1.26	118.60	972	1.17	-	-	-
+HUDCO	Corporate Action	Sparkline Graph	72.55	0.90	1.26	72.20	2,750	2.00	-	-	-
+MOSERBAER		Sparkline Graph	4.05	0.05	1.25	4.00	1,750	0.07	-	-	-
+ICICIBANK		Sparkline Graph	290.25	3.55	1.24	286.70	27,647	80.25	-	-	-
+USHAMART		Sparkline Graph	20.35	0.25	1.24	20.10	105	0.02	-	-	-
+SHRIRAMEPC		Sparkline Graph	28.60	0.35	1.24	28.25	300	0.09	-	-	-
+BLUESTARCO		Sparkline Graph	805.90	9.85	1.24	796.05	80	0.64	-	-	-
+DHFL		Sparkline Graph	503.85	6.10	1.23	497.75	4,875	24.56	-	-	-
+KPIT		Sparkline Graph	213.25	2.60	1.23	210.65	912	1.94	-	-	-
+GALAXYSURF		Sparkline Graph	1,575.00	18.95	1.22	1,556.05	3	0.05	-	-	-
+WABAG		Sparkline Graph	480.00	5.80	1.22	474.20	199	0.96	-	-	-
+HONDAPOWER		Sparkline Graph	1,424.00	17.10	1.22	1,406.90	2	0.03	-	-	-
+MINDTECK		Sparkline Graph	62.00	0.75	1.22	61.25	1	0.00	-	-	-
+RJL		Sparkline Graph	303.00	3.65	1.22	299.35	8	0.02	-	-	-
+WOCKPHARMA		Sparkline Graph	774.00	9.25	1.21	764.75	1,390	10.76	-	-	-
+SWELECTES		Sparkline Graph	405.00	4.85	1.21	400.15	5	0.02	-	-	-
+KIRIINDUS		Sparkline Graph	453.00	5.40	1.21	447.60	144	0.65	-	-	-
+DBL		Sparkline Graph	997.75	11.90	1.21	985.85	505	5.04	-	-	-
+BALLARPUR		Sparkline Graph	12.70	0.15	1.20	12.55	167	0.02	-	-	-
+VASWANI		Sparkline Graph	16.80	0.20	1.20	16.60	401	0.07	-	-	-
+ZEEMEDIA		Sparkline Graph	38.35	0.45	1.19	37.90	300	0.12	-	-	-
+IFCI		Sparkline Graph	21.20	0.25	1.19	20.95	26,813	5.68	-	-	-
+UNITEDBNK		Sparkline Graph	12.75	0.15	1.19	12.60	3,594	0.46	-	-	-
+PURVA		Sparkline Graph	136.00	1.60	1.19	134.40	110	0.15	-	-	-
+HSCL		Sparkline Graph	148.95	1.75	1.19	147.20	1,983	2.95	-	-	-
+NIITTECH		Sparkline Graph	889.20	10.50	1.19	878.70	1,367	12.16	-	-	-
+CASTEXTECH		Sparkline Graph	4.25	0.05	1.19	4.20	22,950	0.98	-	-	-
+MANAPPURAM	Corporate Action	Sparkline Graph	102.70	1.20	1.18	101.50	620	0.64	-	-	-
+IZMO		Sparkline Graph	103.40	1.20	1.17	102.20	1,395	1.44	-	-	-
+DELTACORP		Sparkline Graph	319.70	3.70	1.17	316.00	2,781	8.89	-	-	-
+MCLEODRUSS		Sparkline Graph	155.90	1.80	1.17	154.10	472	0.74	-	-	-
+BODALCHEM		Sparkline Graph	131.25	1.50	1.16	129.75	13	0.02	-	-	-
+CANTABIL		Sparkline Graph	126.55	1.45	1.16	125.10	150	0.19	-	-	-
+DCW		Sparkline Graph	35.00	0.40	1.16	34.60	5	0.00	-	-	-
+AJMERA		Sparkline Graph	240.00	2.75	1.16	237.25	699	1.68	-	-	-
+VIVIMEDLAB		Sparkline Graph	70.20	0.80	1.15	69.40	1,154	0.81	-	-	-
+STARPAPER		Sparkline Graph	202.00	2.30	1.15	199.70	20	0.04	-	-	-
+RAMKY		Sparkline Graph	201.80	2.30	1.15	199.50	200	0.40	-	-	-
+ARROWGREEN		Sparkline Graph	352.10	4.00	1.15	348.10	1	0.00	-	-	-
+RAMCOSYS		Sparkline Graph	431.00	4.80	1.13	426.20	10	0.04	-	-	-
+EROSMEDIA		Sparkline Graph	182.95	2.05	1.13	180.90	350	0.64	-	-	-
+AXISBANK		Sparkline Graph	518.45	5.80	1.13	512.65	6,916	35.86	-	-	-
+SAREGAMA		Sparkline Graph	673.95	7.50	1.13	666.45	13	0.09	-	-	-
+ECLERX	Corporate Action	Sparkline Graph	1,374.50	15.20	1.12	1,359.30	2	0.03	-	-	-
+CCHHL		Sparkline Graph	13.50	0.15	1.12	13.35	250	0.03	-	-	-
+OBEROIRLTY		Sparkline Graph	484.15	5.35	1.12	478.80	86	0.42	-	-	-
+BBL		Sparkline Graph	1,611.00	17.65	1.11	1,593.35	32	0.52	-	-	-
+SPTL		Sparkline Graph	63.55	0.70	1.11	62.85	2,223	1.41	-	-	-
+PENIND		Sparkline Graph	54.85	0.60	1.11	54.25	150	0.08	-	-	-
+AHLUCONT		Sparkline Graph	374.60	4.10	1.11	370.50	3	0.01	-	-	-
+INDIACEM		Sparkline Graph	146.00	1.60	1.11	144.40	1,132	1.65	-	-	-
+JUSTDIAL		Sparkline Graph	429.85	4.70	1.11	425.15	1,794	7.71	-	-	-
+KOHINOOR		Sparkline Graph	63.60	0.70	1.11	62.90	50	0.03	-	-	-
+CHOLAFIN	Corporate Action	Sparkline Graph	1,428.80	15.55	1.10	1,413.25	29	0.41	-	-	-
+DMART		Sparkline Graph	1,313.15	14.35	1.10	1,298.80	1,607	21.10	-	-	-
+BALKRISIND	Corporate Action	Sparkline Graph	1,025.00	11.20	1.10	1,013.80	393	4.03	-	-	-
+VRLLOG		Sparkline Graph	409.20	4.45	1.10	404.75	16	0.07	-	-	-
+HTMEDIA		Sparkline Graph	88.30	0.95	1.09	87.35	211	0.19	-	-	-
+RPGLIFE		Sparkline Graph	445.90	4.80	1.09	441.10	160	0.71	-	-	-
+MOREPENLAB		Sparkline Graph	32.40	0.35	1.09	32.05	1,300	0.42	-	-	-
+ESSELPACK		Sparkline Graph	255.75	2.75	1.09	253.00	6	0.02	-	-	-
+RUSHIL		Sparkline Graph	836.00	8.95	1.08	827.05	6	0.05	-	-	-
+NESTLEIND	Corporate Action	Sparkline Graph	7,788.00	83.55	1.08	7,704.45	71	5.53	-	-	-
+VBL		Sparkline Graph	626.00	6.70	1.08	619.30	150	0.94	-	-	-
+DRREDDY		Sparkline Graph	2,172.90	23.30	1.08	2,149.60	536	11.65	-	-	-
+WELSPUNIND		Sparkline Graph	61.30	0.65	1.07	60.65	851	0.52	-	-	-
+NIITLTD		Sparkline Graph	90.00	0.95	1.07	89.05	365	0.33	-	-	-
+NOCIL		Sparkline Graph	198.50	2.10	1.07	196.40	1,648	3.27	-	-	-
+FRETAIL		Sparkline Graph	499.00	5.30	1.07	493.70	148	0.74	-	-	-
+WELENT		Sparkline Graph	160.00	1.70	1.07	158.30	484	0.77	-	-	-
+TV18BRDCST		Sparkline Graph	61.75	0.65	1.06	61.10	5,474	3.38	-	-	-
+MOTILALOFS	Corporate Action	Sparkline Graph	1,120.00	11.75	1.06	1,108.25	6	0.07	-	-	-
+DREDGECORP		Sparkline Graph	669.70	7.00	1.06	662.70	220	1.47	-	-	-
+BALMLAWRIE		Sparkline Graph	224.60	2.35	1.06	222.25	200	0.45	-	-	-
+SINTEX		Sparkline Graph	19.00	0.20	1.06	18.80	26,429	5.02	-	-	-
+ADANIENT		Sparkline Graph	174.00	1.80	1.05	172.20	7,701	13.40	-	-	-
+JISLJALEQS		Sparkline Graph	105.90	1.10	1.05	104.80	13,936	14.76	-	-	-
+ABCAPITAL		Sparkline Graph	156.00	1.60	1.04	154.40	3,731	5.82	-	-	-
+BAJFINANCE		Sparkline Graph	1,634.95	16.60	1.03	1,618.35	365	5.97	-	-	-
+SWARAJENG	Corporate Action	Sparkline Graph	1,922.95	19.55	1.03	1,903.40	1	0.02	-	-	-
+JSWENERGY		Sparkline Graph	78.60	0.80	1.03	77.80	2,250	1.77	-	-	-
+JSLHISAR		Sparkline Graph	170.90	1.75	1.03	169.15	1,705	2.91	-	-	-
+NILKAMAL		Sparkline Graph	1,659.90	17.00	1.03	1,642.90	154	2.56	-	-	-
+LICHSGFIN		Sparkline Graph	496.00	5.05	1.03	490.95	2,304	11.43	-	-	-
+WEBELSOLAR		Sparkline Graph	84.20	0.85	1.02	83.35	70	0.06	-	-	-
+FCONSUMER		Sparkline Graph	54.45	0.55	1.02	53.90	4,784	2.60	-	-	-
+TATAELXSI		Sparkline Graph	1,005.70	10.20	1.02	995.50	476	4.79	-	-	-
+MERCATOR		Sparkline Graph	35.05	0.35	1.01	34.70	2,170	0.76	-	-	-
+SREINFRA		Sparkline Graph	79.90	0.80	1.01	79.10	200	0.16	-	-	-
+GODFRYPHLP		Sparkline Graph	817.70	8.20	1.01	809.50	117	0.96	-	-	-
+JINDALPOLY		Sparkline Graph	335.00	3.35	1.01	331.65	350	1.17	-	-	-
+ZICOM		Sparkline Graph	19.95	0.20	1.01	19.75	2,000	0.40	-	-	-
+HEXAWARE	Corporate Action	Sparkline Graph	359.50	3.60	1.01	355.90	4,436	15.95	-	-	-
+ABB		Sparkline Graph	1,449.85	14.30	1.00	1,435.55	16	0.23	-	-	-
+DIXON		Sparkline Graph	3,510.00	34.60	1.00	3,475.40	292	10.25	-	-	-
+MOTHERSUMI		Sparkline Graph	312.30	3.10	1.00	309.20	3,004	9.38	-	-	-
+MPHASIS		Sparkline Graph	850.00	8.30	0.99	841.70	18	0.15	-	-	-
+GODREJAGRO		Sparkline Graph	660.00	6.50	0.99	653.50	356	2.35	-	-	-
+IBULHSGFIN	Corporate Action	Sparkline Graph	1,208.10	11.85	0.99	1,196.25	727	8.78	-	-	-
+RENUKA	Corporate Action	Sparkline Graph	15.35	0.15	0.99	15.20	7,002	1.07	-	-	-
+BLS		Sparkline Graph	153.90	1.50	0.98	152.40	70	0.11	-	-	-
+TECHM		Sparkline Graph	615.00	5.95	0.98	609.05	1,068	6.57	-	-	-
+NFL		Sparkline Graph	56.80	0.55	0.98	56.25	5	0.00	-	-	-
+BERGEPAINT		Sparkline Graph	247.20	2.40	0.98	244.80	669	1.65	-	-	-
+GET&D		Sparkline Graph	395.85	3.85	0.98	392.00	115	0.46	-	-	-
+ORIENTBANK		Sparkline Graph	94.10	0.90	0.97	93.20	2,681	2.52	-	-	-
+RANASUG		Sparkline Graph	5.20	0.05	0.97	5.15	26	0.00	-	-	-
+RELAXO		Sparkline Graph	612.00	5.90	0.97	606.10	10	0.06	-	-	-
+NCC		Sparkline Graph	120.00	1.15	0.97	118.85	2,550	3.06	-	-	-
+MMTC		Sparkline Graph	47.00	0.45	0.97	46.55	2,500	1.18	-	-	-
+ABFRL		Sparkline Graph	146.20	1.40	0.97	144.80	414	0.61	-	-	-
+GAIL	Corporate Action	Sparkline Graph	445.00	4.25	0.96	440.75	788	3.51	-	-	-
+MASTEK		Sparkline Graph	505.85	4.80	0.96	501.05	1,976	10.00	-	-	-
+A2ZINFRA		Sparkline Graph	31.45	0.30	0.96	31.15	1,013	0.32	-	-	-
+ZYDUSWELL		Sparkline Graph	1,262.05	12.00	0.96	1,250.05	2	0.03	-	-	-
+SANGHIIND		Sparkline Graph	109.90	1.05	0.96	108.85	300	0.33	-	-	-
+PRISMCEM		Sparkline Graph	117.00	1.10	0.95	115.90	2,571	3.01	-	-	-
+TTKHLTCARE		Sparkline Graph	1,198.00	11.25	0.95	1,186.75	25	0.30	-	-	-
+RBLBANK		Sparkline Graph	458.00	4.30	0.95	453.70	657	3.01	-	-	-
+TATAMTRDVR		Sparkline Graph	196.10	1.85	0.95	194.25	1,511	2.96	-	-	-
+SADBHIN		Sparkline Graph	132.95	1.25	0.95	131.70	960	1.28	-	-	-
+JBMA		Sparkline Graph	404.95	3.80	0.95	401.15	181	0.73	-	-	-
+IOC		Sparkline Graph	382.95	3.55	0.94	379.40	12,345	47.28	-	-	-
+TATAINVEST		Sparkline Graph	774.90	7.25	0.94	767.65	18	0.14	-	-	-
+IGL		Sparkline Graph	311.00	2.90	0.94	308.10	539	1.68	-	-	-
+SALZERELEC		Sparkline Graph	200.05	1.85	0.93	198.20	200	0.40	-	-	-
+GRANULES	Corporate Action	Sparkline Graph	108.80	1.00	0.93	107.80	1,500	1.63	-	-	-
+PVR		Sparkline Graph	1,300.00	11.95	0.93	1,288.05	111	1.44	-	-	-
+INEOSSTYRO		Sparkline Graph	908.95	8.40	0.93	900.55	5	0.05	-	-	-
+RAYMOND		Sparkline Graph	899.95	8.25	0.93	891.70	261	2.35	-	-	-
+COCHINSHIP		Sparkline Graph	515.80	4.75	0.93	511.05	265	1.37	-	-	-
+MOHITIND		Sparkline Graph	33.00	0.30	0.92	32.70	50	0.02	-	-	-
+APOLLO		Sparkline Graph	284.00	2.60	0.92	281.40	125	0.36	-	-	-
+SUNPHARMA		Sparkline Graph	529.70	4.85	0.92	524.85	6,771	35.87	-	-	-
+DOLPHINOFF		Sparkline Graph	82.00	0.75	0.92	81.25	160	0.13	-	-	-
+SRF	Corporate Action	Sparkline Graph	1,822.00	16.40	0.91	1,805.60	76	1.38	-	-	-
+HINDALCO		Sparkline Graph	226.50	2.05	0.91	224.45	3,844	8.71	-	-	-
+GPIL		Sparkline Graph	443.00	4.00	0.91	439.00	1,166	5.17	-	-	-
+TALWALKARS		Sparkline Graph	283.80	2.55	0.91	281.25	4	0.01	-	-	-
+TCS	Corporate Action	Sparkline Graph	3,054.90	27.45	0.91	3,027.45	1,141	34.86	-	-	-
+SHREECEM	Corporate Action	Sparkline Graph	16,327.30	147.20	0.91	16,180.10	3	0.49	-	-	-
+RKFORGE		Sparkline Graph	720.00	6.40	0.90	713.60	1	0.01	-	-	-
+KOKUYOCMLN		Sparkline Graph	113.30	1.00	0.89	112.30	1,700	1.93	-	-	-
+RPOWER		Sparkline Graph	39.50	0.35	0.89	39.15	12,675	5.01	-	-	-
+PCJEWELLER		Sparkline Graph	330.00	2.90	0.89	327.10	6,028	19.89	-	-	-
+RELIANCE		Sparkline Graph	897.65	7.90	0.89	889.75	12,832	115.19	-	-	-
+TRENT		Sparkline Graph	313.00	2.75	0.89	310.25	67	0.21	-	-	-
+ASHAPURMIN		Sparkline Graph	68.20	0.60	0.89	67.60	300	0.20	-	-	-
+KAMDHENU		Sparkline Graph	248.10	2.20	0.89	245.90	200	0.50	-	-	-
+DISHTV		Sparkline Graph	67.95	0.60	0.89	67.35	6,302	4.28	-	-	-
+BFUTILITIE		Sparkline Graph	413.40	3.65	0.89	409.75	1,540	6.37	-	-	-
+DEEPAKNTR		Sparkline Graph	243.65	2.15	0.89	241.50	372	0.91	-	-	-
+PFS		Sparkline Graph	28.50	0.25	0.88	28.25	1,938	0.55	-	-	-
+MANINFRA		Sparkline Graph	51.30	0.45	0.88	50.85	250	0.13	-	-	-
+SAIL		Sparkline Graph	74.40	0.65	0.88	73.75	18,162	13.51	-	-	-
+GRASIM		Sparkline Graph	1,124.75	9.85	0.88	1,114.90	503	5.66	-	-	-
+HBLPOWER		Sparkline Graph	52.00	0.45	0.87	51.55	1,829	0.95	-	-	-
+COFFEEDAY		Sparkline Graph	295.20	2.55	0.87	292.65	155	0.46	-	-	-
+ALBK		Sparkline Graph	46.60	0.40	0.87	46.20	3,371	1.57	-	-	-
+BHARATFIN		Sparkline Graph	1,045.90	9.00	0.87	1,036.90	101	1.06	-	-	-
+HOTELEELA		Sparkline Graph	17.60	0.15	0.86	17.45	64	0.01	-	-	-
+TATAMOTORS		Sparkline Graph	350.80	3.00	0.86	347.80	15,007	52.64	-	-	-
+GMRINFRA		Sparkline Graph	17.50	0.15	0.86	17.35	62,301	10.90	-	-	-
+ESCORTS		Sparkline Graph	845.00	7.15	0.85	837.85	1,815	15.34	-	-	-
+GODREJCP	Corporate Action	Sparkline Graph	1,099.95	9.25	0.85	1,090.70	123	1.35	-	-	-
+ICICIPRULI		Sparkline Graph	384.90	3.25	0.85	381.65	337	1.30	-	-	-
+UPL		Sparkline Graph	708.00	6.00	0.85	702.00	726	5.14	-	-	-
+BSE	Corporate Action	Sparkline Graph	784.80	6.55	0.84	778.25	1,734	13.61	-	-	-
+RELIGARE		Sparkline Graph	53.90	0.45	0.84	53.45	250	0.13	-	-	-
+JVLAGRO		Sparkline Graph	24.10	0.20	0.84	23.90	50	0.01	-	-	-
+JAGRAN		Sparkline Graph	161.60	1.35	0.84	160.25	310	0.50	-	-	-
+JUBILANT		Sparkline Graph	803.80	6.65	0.83	797.15	551	4.43	-	-	-
+NLCINDIA		Sparkline Graph	97.70	0.80	0.83	96.90	722	0.71	-	-	-
+DLINKINDIA		Sparkline Graph	103.50	0.85	0.83	102.65	100	0.10	-	-	-
+PUNJLLOYD		Sparkline Graph	18.30	0.15	0.83	18.15	2,200	0.40	-	-	-
+IDFC		Sparkline Graph	49.15	0.40	0.82	48.75	1,184	0.58	-	-	-
+TRIDENT	Corporate Action	Sparkline Graph	68.00	0.55	0.82	67.45	1,518	1.03	-	-	-
+KTKBANK		Sparkline Graph	118.60	0.95	0.81	117.65	5,035	5.97	-	-	-
+VADILALIND		Sparkline Graph	910.95	7.30	0.81	903.65	50	0.46	-	-	-
+GREAVESCOT	Corporate Action	Sparkline Graph	120.15	0.95	0.80	119.20	401	0.48	-	-	-
+CANBK		Sparkline Graph	251.45	2.00	0.80	249.45	8,193	20.60	-	-	-
+NATIONALUM	Corporate Action	Sparkline Graph	63.40	0.50	0.79	62.90	3,751	2.38	-	-	-
+HDFCLIFE	Corporate Action	Sparkline Graph	441.00	3.45	0.79	437.55	1,997	8.81	-	-	-
+SMARTLINK		Sparkline Graph	89.50	0.70	0.79	88.80	351	0.31	-	-	-
+DENABANK		Sparkline Graph	19.25	0.15	0.79	19.10	3,266	0.63	-	-	-
+OFSS		Sparkline Graph	3,860.00	30.40	0.79	3,829.60	73	2.82	-	-	-
+RCF		Sparkline Graph	77.30	0.60	0.78	76.70	5,857	4.53	-	-	-
+CGPOWER		Sparkline Graph	77.50	0.60	0.78	76.90	1,276	0.99	-	-	-
+FEDERALBNK		Sparkline Graph	90.50	0.70	0.78	89.80	2,284	2.07	-	-	-
+SUPREMEIND		Sparkline Graph	1,180.00	9.10	0.78	1,170.90	1	0.01	-	-	-
+SKMEGGPROD		Sparkline Graph	84.85	0.65	0.77	84.20	541	0.46	-	-	-
+ITI		Sparkline Graph	111.60	0.85	0.77	110.75	3,603	4.02	-	-	-
+DYNAMATECH		Sparkline Graph	1,725.00	12.90	0.75	1,712.10	4	0.07	-	-	-
+DAAWAT		Sparkline Graph	87.10	0.65	0.75	86.45	1,911	1.66	-	-	-
+BRNL		Sparkline Graph	182.00	1.35	0.75	180.65	3	0.01	-	-	-
+GTPL		Sparkline Graph	155.05	1.15	0.75	153.90	1	0.00	-	-	-
+DCMSHRIRAM	Corporate Action	Sparkline Graph	539.00	4.00	0.75	535.00	236	1.27	-	-	-
+ITDCEM		Sparkline Graph	175.05	1.30	0.75	173.75	69	0.12	-	-	-
+KANSAINER		Sparkline Graph	491.95	3.60	0.74	488.35	26	0.13	-	-	-
+KIRLOSBROS		Sparkline Graph	324.95	2.40	0.74	322.55	100	0.32	-	-	-
+WALCHANNAG		Sparkline Graph	163.70	1.20	0.74	162.50	403	0.66	-	-	-
+SUNDRMBRAK		Sparkline Graph	534.00	3.90	0.74	530.10	440	2.35	-	-	-
+SHAKTIPUMP		Sparkline Graph	534.00	3.90	0.74	530.10	142	0.76	-	-	-
+JSL		Sparkline Graph	90.00	0.65	0.73	89.35	210	0.19	-	-	-
+PIIND		Sparkline Graph	860.80	6.15	0.72	854.65	162	1.39	-	-	-
+NITINSPIN		Sparkline Graph	97.80	0.70	0.72	97.10	200	0.20	-	-	-
+APLLTD		Sparkline Graph	546.00	3.90	0.72	542.10	12	0.07	-	-	-
+IDFCBANK		Sparkline Graph	49.25	0.35	0.72	48.90	3,853	1.90	-	-	-
+ABAN		Sparkline Graph	160.10	1.15	0.72	158.95	2,393	3.83	-	-	-
+GICRE		Sparkline Graph	710.00	5.05	0.72	704.95	70	0.50	-	-	-
+MONSANTO		Sparkline Graph	2,599.00	18.65	0.72	2,580.35	104	2.70	-	-	-
+BOSCHLTD		Sparkline Graph	17,975.00	126.75	0.71	17,848.25	18	3.24	-	-	-
+CEATLTD		Sparkline Graph	1,540.00	10.65	0.70	1,529.35	179	2.76	-	-	-
+VICEROY		Sparkline Graph	14.45	0.10	0.70	14.35	7,009	1.01	-	-	-
+UFLEX		Sparkline Graph	352.00	2.45	0.70	349.55	4	0.01	-	-	-
+PHOENIXLTD		Sparkline Graph	681.00	4.70	0.69	676.30	345	2.35	-	-	-
+PITTILAM		Sparkline Graph	88.10	0.60	0.69	87.50	500	0.44	-	-	-
+JKTYRE		Sparkline Graph	153.65	1.05	0.69	152.60	493	0.76	-	-	-
+NMDC		Sparkline Graph	124.70	0.85	0.69	123.85	2,542	3.17	-	-	-
+VINYLINDIA		Sparkline Graph	102.60	0.70	0.69	101.90	50	0.05	-	-	-
+FDC	Corporate Action	Sparkline Graph	307.00	2.10	0.69	304.90	895	2.75	-	-	-
+GSS		Sparkline Graph	58.10	0.40	0.69	57.70	6,178	3.59	-	-	-
+M&MFIN		Sparkline Graph	424.00	2.90	0.69	421.10	844	3.58	-	-	-
+PNB		Sparkline Graph	96.15	0.65	0.68	95.50	38,177	36.71	-	-	-
+INTELLECT		Sparkline Graph	178.75	1.20	0.68	177.55	2,090	3.74	-	-	-
+SIGNET		Sparkline Graph	7.40	0.05	0.68	7.35	20	0.00	-	-	-
+LT		Sparkline Graph	1,271.90	8.60	0.68	1,263.30	2,182	27.75	-	-	-
+ASIANPAINT		Sparkline Graph	1,114.80	7.55	0.68	1,107.25	3,039	33.88	-	-	-
+TATACHEM		Sparkline Graph	682.00	4.60	0.68	677.40	856	5.84	-	-	-
+SHALBY		Sparkline Graph	201.45	1.35	0.67	200.10	251	0.51	-	-	-
+AMARAJABAT		Sparkline Graph	778.00	5.15	0.67	772.85	317	2.47	-	-	-
+TVSMOTOR	Corporate Action	Sparkline Graph	638.00	4.25	0.67	633.75	227	1.45	-	-	-
+MENONBE		Sparkline Graph	98.80	0.65	0.66	98.15	40	0.04	-	-	-
+MEGH		Sparkline Graph	84.45	0.55	0.66	83.90	2,180	1.84	-	-	-
+PERSISTENT	Corporate Action	Sparkline Graph	841.65	5.50	0.66	836.15	138	1.16	-	-	-
+MIRZAINT		Sparkline Graph	130.05	0.85	0.66	129.20	319	0.41	-	-	-
+CIPLA		Sparkline Graph	584.00	3.80	0.65	580.20	386	2.25	-	-	-
+IPCALAB		Sparkline Graph	677.00	4.35	0.65	672.65	553	3.74	-	-	-
+TORNTPHARM	Corporate Action	Sparkline Graph	1,338.00	8.60	0.65	1,329.40	20	0.27	-	-	-
+GRAVITA		Sparkline Graph	155.00	1.00	0.65	154.00	1	0.00	-	-	-
+MCDOWELL-N		Sparkline Graph	3,089.95	20.05	0.65	3,069.90	720	22.25	-	-	-
+J&KBANK		Sparkline Graph	62.00	0.40	0.65	61.60	340	0.21	-	-	-
+SUNTV		Sparkline Graph	896.25	5.70	0.64	890.55	616	5.52	-	-	-
+RUPA		Sparkline Graph	402.20	2.55	0.64	399.65	6	0.02	-	-	-
+PFOCUS		Sparkline Graph	95.00	0.60	0.64	94.40	1	0.00	-	-	-
+JUBLFOOD		Sparkline Graph	1,991.00	12.75	0.64	1,978.25	343	6.83	-	-	-
+PEL	Corporate Action	Sparkline Graph	2,312.00	14.55	0.63	2,297.45	195	4.51	-	-	-
+GRUH		Sparkline Graph	540.00	3.40	0.63	536.60	434	2.34	-	-	-
+HDFC		Sparkline Graph	1,772.90	11.15	0.63	1,761.75	2,067	36.65	-	-	-
+TITAN		Sparkline Graph	820.00	5.15	0.63	814.85	1,754	14.38	-	-	-
+VIKASECO		Sparkline Graph	32.05	0.20	0.63	31.85	9,498	3.04	-	-	-
+JKPAPER		Sparkline Graph	136.65	0.85	0.63	135.80	1,000	1.37	-	-	-
+PRESTIGE		Sparkline Graph	299.50	1.85	0.62	297.65	472	1.41	-	-	-
+FSL		Sparkline Graph	49.00	0.30	0.62	48.70	34,698	17.00	-	-	-
+GSFC		Sparkline Graph	121.00	0.75	0.62	120.25	662	0.80	-	-	-
+SUMEETINDS	Corporate Action	Sparkline Graph	24.30	0.15	0.62	24.15	420	0.10	-	-	-
+BAJAJELEC		Sparkline Graph	556.20	3.40	0.62	552.80	23	0.13	-	-	-
+BIOCON		Sparkline Graph	608.00	3.75	0.62	604.25	4,219	25.65	-	-	-
+NAUKRI	Corporate Action	Sparkline Graph	1,217.00	7.50	0.62	1,209.50	13	0.16	-	-	-
+EDELWEISS	Corporate Action	Sparkline Graph	255.00	1.55	0.61	253.45	1,642	4.19	-	-	-
+SOUTHBANK		Sparkline Graph	24.60	0.15	0.61	24.45	28,100	6.91	-	-	-
+SANGAMIND		Sparkline Graph	139.10	0.85	0.61	138.25	5	0.01	-	-	-
+ADVENZYMES		Sparkline Graph	221.10	1.35	0.61	219.75	399	0.88	-	-	-
+NAGAFERT		Sparkline Graph	16.50	0.10	0.61	16.40	351	0.06	-	-	-
+HARRMALAYA		Sparkline Graph	83.45	0.50	0.60	82.95	325	0.27	-	-	-
+V2RETAIL		Sparkline Graph	405.50	2.40	0.60	403.10	210	0.85	-	-	-
+TATAGLOBAL		Sparkline Graph	270.50	1.60	0.60	268.90	474	1.28	-	-	-
+AUROPHARMA	Corporate Action	Sparkline Graph	597.00	3.55	0.60	593.45	1,837	10.97	-	-	-
+PIDILITIND	Corporate Action	Sparkline Graph	876.45	5.15	0.59	871.30	1,360	11.92	-	-	-
+RUCHISOYA		Sparkline Graph	17.10	0.10	0.59	17.00	1,205	0.21	-	-	-
+BPCL	Corporate Action	Sparkline Graph	446.00	2.60	0.59	443.40	4,672	20.84	-	-	-
+TRIVENI		Sparkline Graph	51.00	0.30	0.59	50.70	2,151	1.10	-	-	-
+SARDAEN		Sparkline Graph	442.00	2.60	0.59	439.40	12	0.05	-	-	-
+VMART		Sparkline Graph	1,920.00	11.20	0.59	1,908.80	225	4.32	-	-	-
+DABUR		Sparkline Graph	325.30	1.90	0.59	323.40	279	0.91	-	-	-
+PGHH		Sparkline Graph	9,339.00	54.95	0.59	9,284.05	1	0.09	-	-	-
+NELCAST		Sparkline Graph	86.00	0.50	0.58	85.50	1	0.00	-	-	-
+HAVELLS		Sparkline Graph	504.10	2.90	0.58	501.20	827	4.17	-	-	-
+ANDHRSUGAR		Sparkline Graph	452.20	2.60	0.58	449.60	16	0.07	-	-	-
+8KMILES		Sparkline Graph	685.00	3.95	0.58	681.05	372	2.55	-	-	-
+IRB	Corporate Action	Sparkline Graph	216.05	1.25	0.58	214.80	1,468	3.17	-	-	-
+MANALIPETC		Sparkline Graph	34.80	0.20	0.58	34.60	206	0.07	-	-	-
+KIOCL		Sparkline Graph	247.00	1.40	0.57	245.60	5	0.01	-	-	-
+SAKHTISUG		Sparkline Graph	17.50	0.10	0.57	17.40	3	0.00	-	-	-
+VIJIFIN		Sparkline Graph	8.75	0.05	0.57	8.70	3	0.00	-	-	-
+PHILIPCARB		Sparkline Graph	1,065.00	6.05	0.57	1,058.95	279	2.97	-	-	-
+MINDTREE	Corporate Action	Sparkline Graph	836.00	4.70	0.57	831.30	1,089	9.10	-	-	-
+BAJAJFINSV		Sparkline Graph	4,863.95	27.80	0.57	4,836.15	35	1.70	-	-	-
+GUJALKALI		Sparkline Graph	715.50	4.05	0.57	711.45	143	1.02	-	-	-
+UNIVCABLES		Sparkline Graph	131.30	0.75	0.57	130.55	136	0.18	-	-	-
+ALLCARGO		Sparkline Graph	167.00	0.95	0.57	166.05	495	0.83	-	-	-
+ASHIMASYN		Sparkline Graph	26.60	0.15	0.57	26.45	10	0.00	-	-	-
+SPIC		Sparkline Graph	35.80	0.20	0.56	35.60	115	0.04	-	-	-
+HCL-INSYS		Sparkline Graph	54.80	0.30	0.55	54.50	5,294	2.90	-	-	-
+STCINDIA		Sparkline Graph	145.25	0.80	0.55	144.45	3	0.00	-	-	-
+PNBGILTS		Sparkline Graph	36.40	0.20	0.55	36.20	501	0.18	-	-	-
+ADANIPORTS		Sparkline Graph	379.00	2.05	0.54	376.95	9,740	36.91	-	-	-
+MEP		Sparkline Graph	83.60	0.45	0.54	83.15	30	0.03	-	-	-
+AMBIKCO		Sparkline Graph	1,305.35	7.05	0.54	1,298.30	10	0.13	-	-	-
+BAJAJ-AUTO		Sparkline Graph	2,919.70	15.80	0.54	2,903.90	291	8.50	-	-	-
+BANKINDIA		Sparkline Graph	101.60	0.55	0.54	101.05	7,457	7.58	-	-	-
+63MOONS		Sparkline Graph	85.70	0.45	0.53	85.25	910	0.78	-	-	-
+SUMMITSEC		Sparkline Graph	783.90	4.10	0.53	779.80	10	0.08	-	-	-
+FSC		Sparkline Graph	675.00	3.55	0.53	671.45	20	0.14	-	-	-
+INDIANB		Sparkline Graph	285.40	1.50	0.53	283.90	2,148	6.13	-	-	-
+ADANITRANS		Sparkline Graph	181.50	0.95	0.53	180.55	669	1.21	-	-	-
+BEML		Sparkline Graph	1,202.00	6.25	0.52	1,195.75	1,002	12.04	-	-	-
+BBTC		Sparkline Graph	1,390.00	7.25	0.52	1,382.75	118	1.64	-	-	-
+JAMNAAUTO		Sparkline Graph	77.55	0.40	0.52	77.15	2,245	1.74	-	-	-
+NETWORK18		Sparkline Graph	49.55	0.25	0.51	49.30	15	0.01	-	-	-
+SAMBHAAV		Sparkline Graph	9.85	0.05	0.51	9.80	1,000	0.10	-	-	-
+TIMETECHNO		Sparkline Graph	159.00	0.80	0.51	158.20	17	0.03	-	-	-
+DLF		Sparkline Graph	216.55	1.10	0.51	215.45	2,105	4.56	-	-	-
+RAJESHEXPO		Sparkline Graph	807.80	4.10	0.51	803.70	1	0.01	-	-	-
+LINCOLN		Sparkline Graph	225.00	1.15	0.51	223.85	250	0.56	-	-	-
+KESORAMIND		Sparkline Graph	117.20	0.60	0.51	116.60	270	0.32	-	-	-
+SYNGENE		Sparkline Graph	590.00	2.95	0.50	587.05	5	0.03	-	-	-
+EQUITAS		Sparkline Graph	141.00	0.70	0.50	140.30	900	1.27	-	-	-
+MAITHANALL		Sparkline Graph	846.00	4.25	0.50	841.75	11	0.09	-	-	-
+INDIANHUME		Sparkline Graph	372.00	1.85	0.50	370.15	2	0.01	-	-	-
+QUICKHEAL		Sparkline Graph	267.45	1.30	0.49	266.15	165	0.44	-	-	-
+ANANTRAJ		Sparkline Graph	51.05	0.25	0.49	50.80	979	0.50	-	-	-
+HINDUNILVR		Sparkline Graph	1,300.00	6.15	0.48	1,293.85	313	4.07	-	-	-
+GHCL		Sparkline Graph	273.95	1.30	0.48	272.65	700	1.92	-	-	-
+HCC		Sparkline Graph	31.30	0.15	0.48	31.15	4,469	1.40	-	-	-
+INFRATEL		Sparkline Graph	331.00	1.55	0.47	329.45	248	0.82	-	-	-
+WABCOINDIA		Sparkline Graph	7,798.35	36.55	0.47	7,761.80	2	0.16	-	-	-
+DALMIABHA		Sparkline Graph	2,724.00	12.80	0.47	2,711.20	210	5.72	-	-	-
+LTTS		Sparkline Graph	1,305.00	5.95	0.46	1,299.05	1	0.01	-	-	-
+ASHOKA		Sparkline Graph	228.60	1.05	0.46	227.55	181	0.41	-	-	-
+HATHWAY		Sparkline Graph	32.95	0.15	0.46	32.80	300	0.10	-	-	-
+MARICO	Corporate Action	Sparkline Graph	306.90	1.40	0.46	305.50	709	2.18	-	-	-
+MUKTAARTS		Sparkline Graph	65.00	0.30	0.46	64.70	810	0.53	-	-	-
+SUNDRMFAST		Sparkline Graph	555.00	2.55	0.46	552.45	20	0.11	-	-	-
+GSKCONS		Sparkline Graph	6,674.00	30.55	0.46	6,643.45	2	0.13	-	-	-
+STAR		Sparkline Graph	670.05	3.10	0.46	666.95	208	1.39	-	-	-
+NESCO		Sparkline Graph	566.00	2.60	0.46	563.40	18	0.10	-	-	-
+ASIANTILES		Sparkline Graph	476.10	2.20	0.46	473.90	5	0.02	-	-	-
+SPARC		Sparkline Graph	412.10	1.85	0.45	410.25	10	0.04	-	-	-
+CENTRALBK		Sparkline Graph	66.50	0.30	0.45	66.20	602	0.40	-	-	-
+TVTODAY		Sparkline Graph	450.00	2.00	0.45	448.00	6	0.03	-	-	-
+INDUSINDBK		Sparkline Graph	1,711.90	7.65	0.45	1,704.25	355	6.08	-	-	-
+JKCEMENT		Sparkline Graph	1,015.10	4.40	0.44	1,010.70	1	0.01	-	-	-
+SYMPHONY	Corporate Action	Sparkline Graph	1,821.00	8.05	0.44	1,812.95	50	0.91	-	-	-
+SUZLON		Sparkline Graph	11.50	0.05	0.44	11.45	58,055	6.68	-	-	-
+GATI		Sparkline Graph	103.00	0.45	0.44	102.55	939	0.97	-	-	-
+BRITANNIA		Sparkline Graph	4,905.50	20.80	0.43	4,884.70	237	11.63	-	-	-
+LUPIN		Sparkline Graph	765.00	3.25	0.43	761.75	2,210	16.91	-	-	-
+PRAJIND		Sparkline Graph	82.65	0.35	0.43	82.30	1,400	1.16	-	-	-
+INFY		Sparkline Graph	1,149.00	4.90	0.43	1,144.10	1,656	19.03	-	-	-
+MINDACORP	Corporate Action	Sparkline Graph	179.00	0.75	0.42	178.25	1,840	3.29	-	-	-
+SNOWMAN		Sparkline Graph	47.85	0.20	0.42	47.65	450	0.22	-	-	-
+KWALITY		Sparkline Graph	84.25	0.35	0.42	83.90	1,162	0.98	-	-	-
+HSIL		Sparkline Graph	418.00	1.75	0.42	416.25	26	0.11	-	-	-
+PETRONET		Sparkline Graph	236.40	1.00	0.42	235.40	1,218	2.88	-	-	-
+VIPIND	Corporate Action	Sparkline Graph	344.05	1.45	0.42	342.60	112	0.39	-	-	-
+IMFA		Sparkline Graph	547.00	2.30	0.42	544.70	200	1.09	-	-	-
+SEAMECLTD		Sparkline Graph	190.00	0.80	0.42	189.20	70	0.13	-	-	-
+BHEL	Corporate Action	Sparkline Graph	85.80	0.35	0.41	85.45	10,459	8.97	-	-	-
+SMLISUZU		Sparkline Graph	775.00	3.15	0.41	771.85	1	0.01	-	-	-
+BLKASHYAP		Sparkline Graph	36.45	0.15	0.41	36.30	358	0.13	-	-	-
+RICOAUTO	Corporate Action	Sparkline Graph	72.60	0.30	0.41	72.30	920	0.67	-	-	-
+IGPL		Sparkline Graph	654.15	2.65	0.41	651.50	18	0.12	-	-	-
+EXIDEIND		Sparkline Graph	206.10	0.85	0.41	205.25	448	0.92	-	-	-
+ROLTA		Sparkline Graph	62.20	0.25	0.40	61.95	555	0.35	-	-	-
+REPCOHOME		Sparkline Graph	544.00	2.15	0.40	541.85	151	0.82	-	-	-
+CENTURYTEX		Sparkline Graph	1,170.00	4.65	0.40	1,165.35	5	0.06	-	-	-
+INOXWIND		Sparkline Graph	125.10	0.50	0.40	124.60	8	0.01	-	-	-
+M&M	Corporate Action	Sparkline Graph	710.55	2.75	0.39	707.80	1,616	11.48	-	-	-
+WIPRO	Corporate Action	Sparkline Graph	286.45	1.10	0.39	285.35	1,719	4.92	-	-	-
+GEPIL		Sparkline Graph	822.00	3.20	0.39	818.80	100	0.82	-	-	-
+HDFCBANK		Sparkline Graph	1,839.80	7.20	0.39	1,832.60	1,719	31.63	-	-	-
+NHPC	Corporate Action	Sparkline Graph	26.70	0.10	0.38	26.60	11,678	3.12	-	-	-
+SHANKARA		Sparkline Graph	1,723.00	6.45	0.38	1,716.55	95	1.64	-	-	-
+AUBANK		Sparkline Graph	575.10	2.20	0.38	572.90	1	0.01	-	-	-
+HITECHGEAR	Corporate Action	Sparkline Graph	419.00	1.55	0.37	417.45	50	0.21	-	-	-
+CAMLINFINE		Sparkline Graph	108.15	0.40	0.37	107.75	1,617	1.75	-	-	-
+SIMPLEXINF		Sparkline Graph	561.05	2.05	0.37	559.00	1	0.01	-	-	-
+GANESHHOUC		Sparkline Graph	136.15	0.50	0.37	135.65	21	0.03	-	-	-
+MOIL	Corporate Action	Sparkline Graph	202.10	0.75	0.37	201.35	1,794	3.63	-	-	-
+KALPATPOWR		Sparkline Graph	461.20	1.70	0.37	459.50	52	0.24	-	-	-
+HCLTECH	Corporate Action	Sparkline Graph	953.00	3.45	0.36	949.55	1,885	17.96	-	-	-
+HINDPETRO	Corporate Action	Sparkline Graph	359.10	1.30	0.36	357.80	2,382	8.55	-	-	-
+JCHAC		Sparkline Graph	2,311.00	8.35	0.36	2,302.65	1	0.02	-	-	-
+TEJASNET		Sparkline Graph	310.65	1.10	0.36	309.55	1,070	3.32	-	-	-
+MRF	Corporate Action	Sparkline Graph	70,500.00	250.80	0.36	70,249.20	7	4.94	-	-	-
+TATACOFFEE		Sparkline Graph	124.60	0.45	0.36	124.15	730	0.91	-	-	-
+TIDEWATER		Sparkline Graph	6,320.00	21.95	0.35	6,298.05	1	0.06	-	-	-
+COALINDIA		Sparkline Graph	308.00	1.05	0.34	306.95	6,013	18.52	-	-	-
+AMBUJACEM		Sparkline Graph	236.00	0.80	0.34	235.20	2,323	5.48	-	-	-
+HDIL		Sparkline Graph	44.00	0.15	0.34	43.85	8,335	3.67	-	-	-
+NECLIFE		Sparkline Graph	29.60	0.10	0.34	29.50	200	0.06	-	-	-
+IBVENTURES	Corporate Action	Sparkline Graph	244.00	0.80	0.33	243.20	5,161	12.59	-	-	-
+KOTAKBANK		Sparkline Graph	1,088.70	3.60	0.33	1,085.10	628	6.84	-	-	-
+SWANENERGY		Sparkline Graph	194.80	0.65	0.33	194.15	500	0.97	-	-	-
+CROMPTON		Sparkline Graph	236.90	0.75	0.32	236.15	120	0.28	-	-	-
+ZUARI		Sparkline Graph	502.00	1.55	0.31	500.45	15	0.08	-	-	-
+HINDUJAVEN		Sparkline Graph	750.00	2.30	0.31	747.70	18	0.14	-	-	-
+PSPPROJECT		Sparkline Graph	475.00	1.45	0.31	473.55	39	0.19	-	-	-
+GNFC		Sparkline Graph	420.05	1.30	0.31	418.75	1,527	6.41	-	-	-
+NTPC	Corporate Action	Sparkline Graph	164.00	0.50	0.31	163.50	1,250	2.05	-	-	-
+EIHOTEL		Sparkline Graph	166.50	0.50	0.30	166.00	200	0.33	-	-	-
+CHAMBLFERT		Sparkline Graph	153.00	0.45	0.29	152.55	266	0.41	-	-	-
+COROMANDEL		Sparkline Graph	540.45	1.55	0.29	538.90	85	0.46	-	-	-
+CERA		Sparkline Graph	3,210.00	9.40	0.29	3,200.60	1	0.03	-	-	-
+CADILAHC		Sparkline Graph	382.40	1.10	0.29	381.30	1,502	5.74	-	-	-
+TANLA		Sparkline Graph	34.80	0.10	0.29	34.70	981	0.34	-	-	-
+DPL		Sparkline Graph	137.70	0.40	0.29	137.30	11	0.02	-	-	-
+INFIBEAM	Corporate Action	Sparkline Graph	153.30	0.45	0.29	152.85	53	0.08	-	-	-
+CESC	Corporate Action	Sparkline Graph	960.00	2.80	0.29	969.20	997	9.57	-	-	-
+SANWARIA		Sparkline Graph	17.80	0.05	0.28	17.75	11,760	2.09	-	-	-
+FILATEX		Sparkline Graph	160.20	0.45	0.28	159.75	2	0.00	-	-	-
+UJJIVAN		Sparkline Graph	340.80	0.95	0.28	339.85	697	2.38	-	-	-
+ONGC		Sparkline Graph	182.00	0.50	0.28	181.50	5,609	10.21	-	-	-
+SALONA		Sparkline Graph	94.50	0.25	0.27	94.25	100	0.09	-	-	-
+LAXMIMACH		Sparkline Graph	6,311.00	16.75	0.27	6,294.25	65	4.10	-	-	-
+UJAAS		Sparkline Graph	18.85	0.05	0.27	18.80	521	0.10	-	-	-
+PARAGMILK		Sparkline Graph	274.00	0.75	0.27	273.25	100	0.27	-	-	-
+JMFINANCIL	Corporate Action	Sparkline Graph	132.25	0.35	0.27	131.90	125	0.17	-	-	-
+DATAMATICS		Sparkline Graph	116.35	0.30	0.26	116.05	100	0.12	-	-	-
+COLPAL		Sparkline Graph	1,048.90	2.70	0.26	1,046.20	16	0.17	-	-	-
+MFSL		Sparkline Graph	482.25	1.25	0.26	481.00	10	0.05	-	-	-
+HIMATSEIDE		Sparkline Graph	333.90	0.85	0.26	333.05	225	0.75	-	-	-
+POWERGRID	Corporate Action	Sparkline Graph	193.85	0.50	0.26	193.35	1,115	2.16	-	-	-
+EVERESTIND		Sparkline Graph	492.00	1.25	0.25	490.75	22	0.11	-	-	-
+ARCOTECH		Sparkline Graph	40.00	0.10	0.25	39.90	500	0.20	-	-	-
+CAPF		Sparkline Graph	631.30	1.60	0.25	629.70	827	5.22	-	-	-
+TATASPONGE		Sparkline Graph	1,014.10	2.55	0.25	1,011.55	200	2.03	-	-	-
+SONASTEER		Sparkline Graph	105.65	0.25	0.24	105.40	10	0.01	-	-	-
+MARUTI		Sparkline Graph	8,700.20	21.10	0.24	8,679.10	981	85.35	-	-	-
+GAYAPROJ	Corporate Action	Sparkline Graph	207.45	0.50	0.24	206.95	26	0.05	-	-	-
+NATHBIOGEN		Sparkline Graph	440.65	1.05	0.24	439.60	30	0.13	-	-	-
+APOLLOTYRE		Sparkline Graph	255.55	0.60	0.24	254.95	1,853	4.74	-	-	-
+THOMASCOOK		Sparkline Graph	256.85	0.60	0.23	256.25	212	0.54	-	-	-
+CHENNPETRO		Sparkline Graph	344.00	0.80	0.23	343.20	334	1.15	-	-	-
+SIEMENS	Corporate Action	Sparkline Graph	1,095.10	2.55	0.23	1,092.55	112	1.23	-	-	-
+AKZOINDIA		Sparkline Graph	1,760.10	4.00	0.23	1,756.10	6	0.11	-	-	-
+CDSL		Sparkline Graph	301.85	0.70	0.23	301.15	750	2.26	-	-	-
+VTL		Sparkline Graph	1,320.00	3.00	0.23	1,317.00	5	0.07	-	-	-
+THYROCARE	Corporate Action	Sparkline Graph	578.95	1.25	0.22	577.70	105	0.61	-	-	-
+CLNINDIA		Sparkline Graph	550.00	1.20	0.22	548.80	90	0.50	-	-	-
+MANINDS		Sparkline Graph	116.00	0.25	0.22	115.75	500	0.58	-	-	-
+ONMOBILE		Sparkline Graph	45.05	0.10	0.22	44.95	79	0.04	-	-	-
+WONDERLA		Sparkline Graph	362.50	0.80	0.22	361.70	33	0.12	-	-	-
+SUVEN	Corporate Action	Sparkline Graph	178.50	0.40	0.22	178.10	401	0.72	-	-	-
+SRTRANSFIN		Sparkline Graph	1,328.00	2.95	0.22	1,325.05	164	2.18	-	-	-
+NAVNETEDUL		Sparkline Graph	140.20	0.30	0.21	139.90	50	0.07	-	-	-
+CYIENT	Corporate Action	Sparkline Graph	626.30	1.30	0.21	625.00	241	1.51	-	-	-
+PAGEIND	Corporate Action	Sparkline Graph	20,788.00	42.55	0.21	20,745.45	16	3.33	-	-	-
+GLENMARK		Sparkline Graph	560.50	1.20	0.21	559.30	648	3.63	-	-	-
+MUTHOOTFIN	Corporate Action	Sparkline Graph	378.50	0.75	0.20	377.75	361	1.37	-	-	-
+PNCINFRA		Sparkline Graph	155.10	0.30	0.19	154.80	200	0.31	-	-	-
+GICHSGFIN		Sparkline Graph	378.25	0.70	0.19	377.55	221	0.84	-	-	-
+BALAMINES		Sparkline Graph	594.05	1.10	0.19	592.95	1,050	6.24	-	-	-
+HEROMOTOCO	Corporate Action	Sparkline Graph	3,561.00	6.60	0.19	3,554.40	269	9.58	-	-	-
+EICHERMOT		Sparkline Graph	27,580.00	51.85	0.19	27,528.15	18	4.96	-	-	-
+BGRENERGY		Sparkline Graph	110.25	0.20	0.18	110.05	94	0.10	-	-	-
+BHARATFORG		Sparkline Graph	743.20	1.35	0.18	741.85	453	3.37	-	-	-
+GENUSPOWER		Sparkline Graph	57.10	0.10	0.18	57.00	450	0.26	-	-	-
+VETO		Sparkline Graph	203.15	0.35	0.17	202.80	50	0.10	-	-	-
+KOLTEPATIL		Sparkline Graph	320.10	0.55	0.17	319.55	8	0.03	-	-	-
+SADBHAV		Sparkline Graph	390.60	0.65	0.17	389.95	82	0.32	-	-	-
+NEWGEN		Sparkline Graph	236.25	0.40	0.17	235.85	21	0.05	-	-	-
+PINCON		Sparkline Graph	29.60	0.05	0.17	29.55	33	0.01	-	-	-
+TBZ		Sparkline Graph	94.40	0.15	0.16	94.25	10	0.01	-	-	-
+GPPL		Sparkline Graph	137.75	0.20	0.15	137.55	175	0.24	-	-	-
+HINDZINC		Sparkline Graph	309.20	0.45	0.15	308.75	1,487	4.60	-	-	-
+SJVN	Corporate Action	Sparkline Graph	33.55	0.05	0.15	33.50	253	0.08	-	-	-
+SBILIFE		Sparkline Graph	653.60	1.00	0.15	652.60	143	0.93	-	-	-
+SALASAR		Sparkline Graph	327.10	0.50	0.15	326.60	500	1.64	-	-	-
+IL&FSTRANS		Sparkline Graph	67.65	0.10	0.15	67.55	50	0.03	-	-	-
+ITC		Sparkline Graph	260.30	0.40	0.15	259.90	13,622	35.46	-	-	-
+KARURVYSYA		Sparkline Graph	100.10	0.15	0.15	99.95	1,525	1.53	-	-	-
+ZEEL		Sparkline Graph	565.90	0.80	0.14	565.10	2,670	15.11	-	-	-
+MTEDUCARE		Sparkline Graph	69.85	0.10	0.14	69.75	23	0.02	-	-	-
+MAJESCO		Sparkline Graph	451.20	0.65	0.14	450.55	29	0.13	-	-	-
+DIVISLAB		Sparkline Graph	992.15	1.35	0.14	990.80	600	5.95	-	-	-
+NBVENTURES		Sparkline Graph	146.50	0.20	0.14	146.30	2	0.00	-	-	-
+SBIN		Sparkline Graph	247.00	0.35	0.14	246.65	48,122	118.86	-	-	-
+NITCO	Corporate Action	Sparkline Graph	116.10	0.15	0.13	115.95	9	0.01	-	-	-
+BATAINDIA		Sparkline Graph	707.80	0.95	0.13	706.85	157	1.11	-	-	-
+MRPL		Sparkline Graph	116.55	0.15	0.13	116.40	776	0.90	-	-	-
+OMAXE		Sparkline Graph	225.10	0.30	0.13	224.80	2	0.00	-	-	-
+GLOBUSSPR		Sparkline Graph	121.15	0.15	0.12	121.00	12	0.01	-	-	-
+SEQUENT		Sparkline Graph	82.35	0.10	0.12	82.25	1	0.00	-	-	-
+MGL	Corporate Action	Sparkline Graph	1,011.00	1.25	0.12	1,009.75	78	0.79	-	-	-
+ASTRON		Sparkline Graph	123.75	0.15	0.12	123.60	355	0.44	-	-	-
+MAANALU		Sparkline Graph	134.35	0.15	0.11	134.20	25	0.03	-	-	-
+TCIEXP	Corporate Action	Sparkline Graph	480.00	0.55	0.11	479.45	6	0.03	-	-	-
+YESBANK		Sparkline Graph	312.30	0.35	0.11	311.95	11,105	34.68	-	-	-
+ACC		Sparkline Graph	1,577.00	1.80	0.11	1,575.20	186	2.93	-	-	-
+MANPASAND		Sparkline Graph	383.50	0.40	0.10	383.10	50	0.19	-	-	-
+BHAGYANGR		Sparkline Graph	52.00	0.05	0.10	51.95	6,526	3.39	-	-	-
+VIJAYABANK		Sparkline Graph	53.35	0.05	0.09	53.30	357	0.19	-	-	-
+CMICABLES	Corporate Action	Sparkline Graph	235.65	0.20	0.08	235.45	25	0.06	-	-	-
+GSPL		Sparkline Graph	200.00	0.15	0.08	199.85	76	0.15	-	-	-
+CAPACITE		Sparkline Graph	311.50	0.25	0.08	311.25	1,001	3.12	-	-	-
+ORISSAMINE		Sparkline Graph	1,634.00	1.15	0.07	1,632.85	5	0.08	-	-	-
+IIFL	Corporate Action	Sparkline Graph	790.00	0.45	0.06	789.55	1,103	8.71	-	-	-
+TEXRAIL		Sparkline Graph	89.00	0.05	0.06	88.95	200	0.18	-	-	-
+TCI	Corporate Action	Sparkline Graph	271.05	0.15	0.06	270.90	102	0.28	-	-	-
+CASTROLIND		Sparkline Graph	200.00	0.10	0.05	199.90	682	1.36	-	-	-
+KSCL		Sparkline Graph	460.40	0.20	0.04	460.20	162	0.75	-	-	-
+FLFL		Sparkline Graph	387.00	0.15	0.04	386.85	110	0.43	-	-	-
+PGEL		Sparkline Graph	271.00	0.10	0.04	270.90	12	0.03	-	-	-
+INDHOTEL		Sparkline Graph	132.80	0.05	0.04	132.75	2,222	2.95	-	-	-
+ICICIGI		Sparkline Graph	790.30	0.25	0.03	790.05	129	1.02	-	-	-
+SOBHA		Sparkline Graph	537.40	0.15	0.03	537.25	206	1.11	-	-	-
+DEEPIND		Sparkline Graph	177.00	0.05	0.03	176.95	6	0.01	-	-	-
+CCL		Sparkline Graph	295.00	0.10	0.03	294.90	4	0.01	-	-	-
+QUESS		Sparkline Graph	955.80	0.30	0.03	955.50	50	0.48	-	-	-
+JMCPROJECT		Sparkline Graph	562.05	0.15	0.03	561.90	10	0.06	-	-	-
+ROHLTD		Sparkline Graph	171.40	0.05	0.03	171.35	104	0.18	-	-	-
+JETAIRWAYS		Sparkline Graph	708.15	0.15	0.02	708.00	5,167	36.59	-	-	-
+JYOTHYLAB		Sparkline Graph	345.15	0.05	0.01	345.10	23	0.08	-	-	-
+ATULAUTO	Corporate Action	Sparkline Graph	423.55	0.05	0.01	423.50	40	0.17	-	-	-
+RAMCOCEM		Sparkline Graph	727.55	0.05	0.01	727.50	46	0.33	-	-	-
+NATCOPHARM	Corporate Action	Sparkline Graph	722.60	0.05	0.01	722.55	430	3.11	-	-	-
+VISESHINFO		Sparkline Graph	0.15	0.00	0.00	0.15	1,000	0.00	-	-	-
+MANGALAM	Corporate Action	Sparkline Graph	151.10	0.00	0.00	151.10	7	0.01	-	-	-
+IVRCLINFRA		Sparkline Graph	4.00	0.00	0.00	4.00	10,020	0.40	-	-	-
+UVSL		Sparkline Graph	0.20	0.00	0.00	0.20	10,600	0.02	-	-	-
+HIKAL	Corporate Action	Sparkline Graph	235.05	0.00	0.00	235.05	174	0.41	-	-	-
+ORICONENT		Sparkline Graph	56.70	0.00	0.00	56.70	125	0.07	-	-	-
+TARAJEWELS		Sparkline Graph	13.45	0.00	0.00	13.45	100	0.01	-	-	-
+ALOKTEXT		Sparkline Graph	2.95	0.00	0.00	2.95	1,300	0.04	-	-	-
+SCHAND		Sparkline Graph	433.00	0.00	0.00	433.00	5	0.02	-	-	-
+WEIZFOREX		Sparkline Graph	1,195.00	0.05	0.00	1,194.95	11	0.13	-	-	-
+GENUSPAPER		Sparkline Graph	13.00	0.00	0.00	13.00	2,800	0.36	-	-	-
+LAKSHVILAS		Sparkline Graph	96.75	0.00	0.00	96.75	409	0.40	-	-	-
+VHL		Sparkline Graph	4,177.90	0.00	0.00	4,177.90	2	0.08	-	-	-
+KCP		Sparkline Graph	117.55	0.00	0.00	117.55	100	0.12	-	-	-
+SARLAPOLY		Sparkline Graph	55.80	0.00	0.00	55.80	171	0.10	-	-	-
+MAWANASUG		Sparkline Graph	49.75	0.00	0.00	49.75	41	0.02	-	-	-
+GTLINFRA		Sparkline Graph	4.15	0.00	0.00	4.15	29,675	1.23	-	-	-
+GESHIP		Sparkline Graph	355.30	0.00	0.00	355.30	5	0.02	-	-	-
+COX&KINGS		Sparkline Graph	253.80	0.00	0.00	253.80	1,050	2.66	-	-	-
+PNBHOUSING		Sparkline Graph	1,130.70	0.00	0.00	1,130.70	39	0.44	-	-	-
+GAMMNINFRA		Sparkline Graph	2.75	0.00	0.00	2.75	13,000	0.36	-	-	-
+PRAKASHCON		Sparkline Graph	6.30	0.00	0.00	6.30	15,000	0.94	-	-	-
+MERCK		Sparkline Graph	1,473.00	0.00	0.00	1,473.00	3	0.04	-	-	-
+KABRAEXTRU		Sparkline Graph	122.60	0.00	0.00	122.60	350	0.43	-	-	-
+MAHINDCIE		Sparkline Graph	227.75	0.00	0.00	227.75	335	0.76	-	-	-
+GOLDIAM		Sparkline Graph	70.35	0.00	0.00	70.35	31	0.02	-	-	-
+FCSSOFT		Sparkline Graph	0.45	0.00	0.00	0.45	10,001	0.05	-	-	-
+INOXLEISUR		Sparkline Graph	257.35	0.00	0.00	257.35	13	0.03	-	-	-
+ERIS		Sparkline Graph	799.75	0.00	0.00	799.75	2	0.02	-	-	-
+BSLIMITED		Sparkline Graph	1.20	0.00	0.00	1.20	1,000	0.01	-	-	-
+LSIL		Sparkline Graph	1.40	0.00	0.00	1.40	410	0.01	-	-	-
+EDUCOMP		Sparkline Graph	5.80	0.00	0.00	5.80	300	0.02	-	-	-
+NDTV		Sparkline Graph	41.80	0.00	0.00	41.80	23	0.01	-	-	-
+TVVISION		Sparkline Graph	15.10	0.00	0.00	15.10	20	0.00	-	-	-
+ORIENTLTD		Sparkline Graph	241.95	0.00	0.00	241.95	1	0.00	-	-	-
+AVANTIFEED		Sparkline Graph	2,374.30	0.00	0.00	2,374.30	437	10.38	-	-	-
+MCX		Sparkline Graph	745.00	-0.05	-0.01	745.05	495	3.69	-	-	-
+PPAP		Sparkline Graph	530.00	-0.10	-0.02	530.10	320	1.70	-	-	-
+LALPATHLAB		Sparkline Graph	875.00	-0.20	-0.02	875.20	58	0.51	-	-	-
+ASTERDM		Sparkline Graph	165.00	-0.05	-0.03	165.05	1,034	1.71	-	-	-
+KAJARIACER		Sparkline Graph	547.05	-0.30	-0.05	547.35	205	1.12	-	-	-
+ASTRAL		Sparkline Graph	846.00	-0.40	-0.05	846.40	1	0.01	-	-	-
+MAGMA		Sparkline Graph	150.50	-0.10	-0.07	150.60	6	0.01	-	-	-
+UNIPLY		Sparkline Graph	401.00	-0.30	-0.07	401.30	7	0.03	-	-	-
+SUPREMEINF		Sparkline Graph	59.00	-0.05	-0.08	59.05	322	0.19	-	-	-
+CONCOR	Corporate Action	Sparkline Graph	1,251.85	-1.10	-0.09	1,252.95	43	0.54	-	-	-
+CEREBRAINT		Sparkline Graph	54.85	-0.05	-0.09	54.90	900	0.49	-	-	-
+BHARATWIRE		Sparkline Graph	117.00	-0.10	-0.09	117.10	2	0.00	-	-	-
+INFINITE		Sparkline Graph	491.00	-0.50	-0.10	491.50	310	1.52	-	-	-
+OIL	Corporate Action	Sparkline Graph	336.20	-0.35	-0.10	336.55	202	0.68	-	-	-
+CUB		Sparkline Graph	180.95	-0.20	-0.11	181.15	1,264	2.29	-	-	-
+ASTRAZEN		Sparkline Graph	965.00	-1.20	-0.12	966.20	1	0.01	-	-	-
+HEIDELBERG		Sparkline Graph	153.40	-0.20	-0.13	153.60	1	0.00	-	-	-
+CUMMINSIND	Corporate Action	Sparkline Graph	777.50	-1.10	-0.14	778.60	25	0.19	-	-	-
+EXCELINDUS		Sparkline Graph	865.00	-1.20	-0.14	866.20	211	1.83	-	-	-
+SKIL		Sparkline Graph	32.25	-0.05	-0.15	32.30	1	0.00	-	-	-
+HGS	Corporate Action	Sparkline Graph	823.00	-1.20	-0.15	824.20	1	0.01	-	-	-
+DCBBANK		Sparkline Graph	157.40	-0.25	-0.16	157.65	1,116	1.76	-	-	-
+PRECWIRE	Corporate Action	Sparkline Graph	297.00	-0.50	-0.17	297.50	414	1.23	-	-	-
+TRIL		Sparkline Graph	29.05	-0.05	-0.17	29.10	190	0.06	-	-	-
+STEELXIND		Sparkline Graph	26.70	-0.05	-0.19	26.75	67	0.02	-	-	-
+TNPL		Sparkline Graph	346.00	-0.65	-0.19	346.65	1	0.00	-	-	-
+ULTRACEMCO		Sparkline Graph	4,105.25	-8.20	-0.20	4,113.45	189	7.76	-	-	-
+APOLLOHOSP		Sparkline Graph	1,150.00	-2.35	-0.20	1,152.35	306	3.52	-	-	-
+UCOBANK		Sparkline Graph	24.30	-0.05	-0.21	24.35	2,025	0.49	-	-	-
+FMNL		Sparkline Graph	92.50	-0.20	-0.22	92.70	50	0.05	-	-	-
+UNICHEMLAB	Corporate Action	Sparkline Graph	334.00	-0.75	-0.22	334.75	62	0.21	-	-	-
+EIDPARRY		Sparkline Graph	299.00	-0.70	-0.23	299.70	50	0.15	-	-	-
+INDIGO		Sparkline Graph	1,275.10	-2.90	-0.23	1,278.00	267	3.40	-	-	-
+GILLETTE		Sparkline Graph	6,600.00	-17.00	-0.26	6,617.00	2	0.13	-	-	-
+GUFICBIO		Sparkline Graph	110.70	-0.30	-0.27	111.00	387	0.43	-	-	-
+GLAXO		Sparkline Graph	2,285.60	-6.35	-0.28	2,291.95	2	0.05	-	-	-
+ENDURANCE		Sparkline Graph	1,235.00	-3.45	-0.28	1,238.45	8	0.10	-	-	-
+CRISIL		Sparkline Graph	1,955.00	-5.40	-0.28	1,960.40	15	0.29	-	-	-
+RNAM	Corporate Action	Sparkline Graph	256.00	-0.75	-0.29	256.75	20	0.05	-	-	-
+GUJGASLTD		Sparkline Graph	863.30	-2.60	-0.30	865.90	100	0.86	-	-	-
+GMDCLTD		Sparkline Graph	133.25	-0.40	-0.30	133.65	204	0.27	-	-	-
+SSWL		Sparkline Graph	1,010.00	-3.25	-0.32	1,013.25	1	0.01	-	-	-
+UTTAMSTL		Sparkline Graph	14.95	-0.05	-0.33	15.00	1,400	0.21	-	-	-
+LASA		Sparkline Graph	101.75	-0.35	-0.34	102.10	3,198	3.25	-	-	-
+NH		Sparkline Graph	293.55	-1.00	-0.34	294.55	4	0.01	-	-	-
+ORCHIDPHAR		Sparkline Graph	14.85	-0.05	-0.34	14.90	100	0.01	-	-	-
+DBCORP		Sparkline Graph	322.25	-1.30	-0.40	323.55	15	0.05	-	-	-
+MAGNUM		Sparkline Graph	12.05	-0.05	-0.41	12.10	50	0.01	-	-	-
+PFC	Corporate Action	Sparkline Graph	94.90	-0.40	-0.42	95.30	21,656	20.55	-	-	-
+VLSFINANCE		Sparkline Graph	69.05	-0.30	-0.43	69.35	267	0.18	-	-	-
+FINCABLES		Sparkline Graph	695.00	-3.15	-0.45	698.15	24	0.17	-	-	-
+AUTOAXLES		Sparkline Graph	1,435.00	-6.90	-0.48	1,441.90	2	0.03	-	-	-
+RECLTD	Corporate Action	Sparkline Graph	135.00	-0.65	-0.48	135.65	19,608	26.47	-	-	-
+TARMAT		Sparkline Graph	52.25	-0.25	-0.48	52.50	59	0.03	-	-	-
+CARERATING	Corporate Action	Sparkline Graph	1,317.00	-6.55	-0.49	1,323.55	4	0.05	-	-	-
+CORPBANK		Sparkline Graph	30.20	-0.15	-0.49	30.35	2,341	0.71	-	-	-
+GODREJPROP		Sparkline Graph	741.10	-4.25	-0.57	745.35	45	0.33	-	-	-
+TRITURBINE		Sparkline Graph	112.15	-0.65	-0.58	112.80	110	0.12	-	-	-
+GULFPETRO		Sparkline Graph	77.10	-0.45	-0.58	77.55	5	0.00	-	-	-
+BALPHARMA		Sparkline Graph	91.05	-0.55	-0.60	91.60	102	0.09	-	-	-
+WHEELS	Corporate Action	Sparkline Graph	2,184.00	-13.20	-0.60	2,197.20	5	0.11	-	-	-
+ORIENTCEM		Sparkline Graph	150.05	-0.90	-0.60	150.95	31	0.05	-	-	-
+ATLANTA		Sparkline Graph	83.20	-0.50	-0.60	83.70	25	0.02	-	-	-
+POLARIS		Sparkline Graph	469.10	-2.90	-0.61	472.00	250	1.17	-	-	-
+HINDMOTORS		Sparkline Graph	8.15	-0.05	-0.61	8.20	100	0.01	-	-	-
+PARABDRUGS		Sparkline Graph	7.65	-0.05	-0.65	7.70	556	0.04	-	-	-
+GANECOS		Sparkline Graph	321.00	-2.25	-0.70	323.25	1	0.00	-	-	-
+BLISSGVS		Sparkline Graph	180.65	-1.35	-0.74	182.00	7	0.01	-	-	-
+RSWM		Sparkline Graph	332.10	-2.50	-0.75	334.60	100	0.33	-	-	-
+VESUVIUS		Sparkline Graph	1,302.00	-9.85	-0.75	1,311.85	13	0.17	-	-	-
+BLUEDART		Sparkline Graph	4,195.40	-31.60	-0.75	4,227.00	1	0.04	-	-	-
+TATAPOWER		Sparkline Graph	78.60	-0.60	-0.76	79.20	25,515	20.05	-	-	-
+BALRAMCHIN	Corporate Action	Sparkline Graph	95.55	-0.75	-0.78	96.30	2,346	2.24	-	-	-
+ORIENTHOT		Sparkline Graph	44.00	-0.35	-0.79	44.35	3,200	1.41	-	-	-
+CENTENKA		Sparkline Graph	315.50	-2.55	-0.80	318.05	100	0.32	-	-	-
+NOIDATOLL		Sparkline Graph	12.35	-0.10	-0.80	12.45	127	0.02	-	-	-
+MIC		Sparkline Graph	6.15	-0.05	-0.81	6.20	100	0.01	-	-	-
+CONTROLPR	Corporate Action	Sparkline Graph	436.50	-3.60	-0.82	440.10	34	0.15	-	-	-
+MINDAIND	Corporate Action	Sparkline Graph	1,133.00	-9.40	-0.82	1,142.40	39	0.44	-	-	-
+ABBOTINDIA		Sparkline Graph	5,692.00	-47.35	-0.83	5,739.35	2	0.11	-	-	-
+SHALPAINTS	Corporate Action	Sparkline Graph	153.05	-1.30	-0.84	154.35	30	0.05	-	-	-
+ADLABS		Sparkline Graph	52.10	-0.45	-0.86	52.55	200	0.10	-	-	-
+CENTURYPLY		Sparkline Graph	319.50	-2.80	-0.87	322.30	57	0.18	-	-	-
+SHARDAMOTR	Corporate Action	Sparkline Graph	1,971.00	-17.50	-0.88	1,988.50	9	0.18	-	-	-
+BAJAJHLDNG		Sparkline Graph	2,708.60	-25.00	-0.91	2,733.60	10	0.27	-	-	-
+ADANIPOWER		Sparkline Graph	27.15	-0.25	-0.91	27.40	41,769	11.34	-	-	-
+AKSHARCHEM		Sparkline Graph	616.00	-5.75	-0.92	621.75	6	0.04	-	-	-
+FCL	Corporate Action	Sparkline Graph	58.50	-0.55	-0.93	59.05	640	0.37	-	-	-
+SURYALAXMI		Sparkline Graph	74.55	-0.70	-0.93	75.25	150	0.11	-	-	-
+SOLARINDS		Sparkline Graph	992.25	-9.40	-0.94	1,001.65	13	0.13	-	-	-
+TAKE	Corporate Action	Sparkline Graph	162.25	-1.55	-0.95	163.80	2	0.00	-	-	-
+BAJAJCORP	Corporate Action	Sparkline Graph	458.05	-4.45	-0.96	462.50	6	0.03	-	-	-
+JKLAKSHMI		Sparkline Graph	415.65	-4.05	-0.96	419.70	16	0.07	-	-	-
+ASAHIINDIA		Sparkline Graph	330.15	-3.25	-0.97	333.40	30	0.10	-	-	-
+RATNAMANI		Sparkline Graph	918.05	-9.20	-0.99	927.25	4	0.04	-	-	-
+CAPLIPOINT		Sparkline Graph	595.00	-6.20	-1.03	601.20	20	0.12	-	-	-
+JBCHEPHARM		Sparkline Graph	303.20	-3.40	-1.11	306.60	400	1.21	-	-	-
+PTC		Sparkline Graph	92.10	-1.05	-1.13	93.15	25,520	23.50	-	-	-
+UGARSUGAR		Sparkline Graph	17.10	-0.20	-1.16	17.30	610	0.10	-	-	-
+GULPOLY		Sparkline Graph	74.20	-0.90	-1.20	75.10	4,000	2.97	-	-	-
+SALSTEEL		Sparkline Graph	7.80	-0.10	-1.27	7.90	790	0.06	-	-	-
+NECCLTD		Sparkline Graph	19.00	-0.25	-1.30	19.25	391	0.07	-	-	-
+VENUSREM		Sparkline Graph	67.30	-0.90	-1.32	68.20	5	0.00	-	-	-
+ZENSARTECH	Corporate Action	Sparkline Graph	875.10	-12.00	-1.35	887.10	2	0.02	-	-	-
+IFGLEXPOR	Corporate Action	Sparkline Graph	263.55	-3.65	-1.37	267.20	100	0.26	-	-	-
+THERMAX		Sparkline Graph	1,152.00	-16.10	-1.38	1,168.10	4	0.05	-	-	-
+ARMANFIN		Sparkline Graph	326.00	-4.60	-1.39	330.60	50	0.16	-	-	-
+HBSTOCK		Sparkline Graph	35.25	-0.50	-1.40	35.75	261	0.09	-	-	-
+DALMIASUG		Sparkline Graph	84.55	-1.30	-1.51	85.85	1,200	1.01	-	-	-
+MADRASFERT		Sparkline Graph	35.45	-0.55	-1.53	36.00	86,341	30.61	-	-	-
+KELLTONTEC		Sparkline Graph	111.25	-1.85	-1.64	113.10	130	0.14	-	-	-
+BINANIIND		Sparkline Graph	97.00	-1.65	-1.67	98.65	1,050	1.02	-	-	-
+STARCEMENT		Sparkline Graph	117.00	-2.00	-1.68	119.00	300	0.35	-	-	-
+VIMTALABS		Sparkline Graph	192.10	-3.35	-1.71	195.45	50	0.10	-	-	-
+DPSCLTD		Sparkline Graph	27.00	-0.50	-1.82	27.50	500	0.14	-	-	-
+ARIES		Sparkline Graph	186.60	-3.45	-1.82	190.05	300	0.56	-	-	-
+MOLDTKPAC		Sparkline Graph	311.60	-5.90	-1.86	317.50	300	0.93	-	-	-
+IVP		Sparkline Graph	191.40	-3.80	-1.95	195.20	20	0.04	-	-	-
+LYCOS		Sparkline Graph	5.00	-0.10	-1.96	5.10	1,000	0.05	-	-	-
+SPMLINFRA		Sparkline Graph	101.25	-2.10	-2.03	103.35	100	0.10	-	-	-
+SHRIPISTON	Corporate Action	Sparkline Graph	1,555.60	-33.25	-2.09	1,588.85	4	0.06	-	-	-
+BSL		Sparkline Graph	63.05	-1.35	-2.10	64.40	31	0.02	-	-	-
+JPINFRATEC	Corporate Action	Sparkline Graph	10.70	-0.25	-2.28	10.95	12,429	1.33	-	-	-
+GVKPIL		Sparkline Graph	13.90	-0.35	-2.46	14.25	15,670	2.18	-	-	-
+SHILPI		Sparkline Graph	9.65	-0.25	-2.53	9.90	200	0.02	-	-	-
+SPICEMOBI		Sparkline Graph	17.30	-0.45	-2.54	17.75	113	0.02	-	-	-
+SIMBHALS		Sparkline Graph	13.05	-0.35	-2.61	13.40	600	0.08	-	-	-
+KGL		Sparkline Graph	1.80	-0.05	-2.70	1.85	6,891	0.12	-	-	-
+JINDALPHOT		Sparkline Graph	59.15	-1.65	-2.71	60.80	10	0.01	-	-	-
+BUTTERFLY		Sparkline Graph	466.15	-13.25	-2.76	479.40	3,600	16.78	-	-	-
+MAHABANK		Sparkline Graph	14.00	-0.40	-2.78	14.40	51,410	7.20	-	-	-
+COUNCODOS		Sparkline Graph	3.45	-0.10	-2.82	3.55	200	0.01	-	-	-
+SUNILHITEC		Sparkline Graph	10.00	-0.30	-2.91	10.30	48,000	4.80	-	-	-
+MOTOGENFIN		Sparkline Graph	38.25	-1.20	-3.04	39.45	200	0.08	-	-	-
+ADSL		Sparkline Graph	22.15	-0.70	-3.06	22.85	25	0.01	-	-	-
+PARACABLES		Sparkline Graph	14.20	-0.45	-3.07	14.65	12,557	1.78	-	-	-
+PTL		Sparkline Graph	48.00	-1.55	-3.13	49.55	10	0.00	-	-	-
+KINGFA		Sparkline Graph	921.25	-29.80	-3.13	951.05	20	0.18	-	-	-
+HINDDORROL		Sparkline Graph	5.50	-0.20	-3.51	5.70	110	0.01	-	-	-
+ESL		Sparkline Graph	2.75	-0.10	-3.51	2.85	1,54,294	4.24	-	-	-
+SMPL		Sparkline Graph	1.30	-0.05	-3.70	1.35	885	0.01	-	-	-
+BRFL		Sparkline Graph	52.30	-2.25	-4.12	54.55	1,730	0.90	-	-	-
+STAMPEDE		Sparkline Graph	9.30	-0.40	-4.12	9.70	2,200	0.20	-	-	-
+URJA	Corporate Action	Sparkline Graph	4.55	-0.20	-4.21	4.75	1,990	0.09	-	-	-
+ORIENTALTL		Sparkline Graph	12.45	-0.55	-4.23	13.00	5	0.00	-	-	-
+MANDHANA		Sparkline Graph	5.65	-0.25	-4.24	5.90	1,500	0.08	-	-	-
+LITL	Corporate Action	Sparkline Graph	1.10	-0.05	-4.35	1.15	6,003	0.07	-	-	-
+TREEHOUSE		Sparkline Graph	9.90	-0.45	-4.35	10.35	1,970	0.20	-	-	-
+PRADIP		Sparkline Graph	2.10	-0.10	-4.55	2.20	100	0.00	-	-	-
+VIVIDHA		Sparkline Graph	1.05	-0.05	-4.55	1.10	550	0.01	-	-	-
+CALSOFT		Sparkline Graph	49.85	-2.40	-4.59	52.25	760	0.38	-	-	-
+PRATIBHA		Sparkline Graph	6.20	-0.30	-4.62	6.50	520	0.03	-	-	-
+ZENITHBIR		Sparkline Graph	2.00	-0.10	-4.76	2.10	2,15,553	4.31	-	-	-
+GITANJALI		Sparkline Graph	16.55	-0.85	-4.89	17.40	224	0.04	-	-	-
+VIDEOIND	Corporate Action	Sparkline Graph	12.60	-0.65	-4.91	13.25	1,41,078	17.78	-	-	-
+EDL		Sparkline Graph	36.55	-1.90	-4.94	38.45	1,000	0.37	-	-	-
+THANGAMAYL		Sparkline Graph	447.15	-23.30	-4.95	470.45	3,200	14.31	-	-	-
+KILITCH		Sparkline Graph	87.00	-4.55	-4.97	91.55	600	0.52	-	-	-
+KSK		Sparkline Graph	8.60	-0.45	-4.97	9.05	551	0.05	-	-	-
+UTTAMSUGAR		Sparkline Graph	93.20	-6.20	-6.24	99.40	166	0.15	-	-	-
+NUTEK		Sparkline Graph	0.75	-0.05	-6.25	0.80	4,240	0.03	-	-	-
+GOENKA		Sparkline Graph	0.65	-0.05	-7.14	0.70	50	0.00	-	-	-
+PANORAMUNI		Sparkline Graph	9.20	-0.75	-7.54	9.95	255	0.02	-	-	-
+MVL		Sparkline Graph	0.45	-0.05	-10.00	0.50	1,07,450	0.48	-	-	-
+SAMTEL		Sparkline Graph	0.30	-0.05	-14.29	0.35	1,000	0.00	-	-	-
